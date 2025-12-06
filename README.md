@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BID one-word domains still available to buy.
 
-This dataset contains 4,624 .BID one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,619 .BID one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BID one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bid-oneword-domains&utm_content=description.top) (4,624) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.BID one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.bid      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.bid      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.bid  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.bid      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.bid  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.BID one word domains]
 | abatic.bid     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.bid    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.bid   | available | 50       | 1%     | 8      |           |         |         |
-| abc.bid        | available | 102      | 41%    | 3      |           |         |         |
+| abc.bid        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.bid  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.bid  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.bid | available | 56       | 1%     | 10     |           |         |         |
