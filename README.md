@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bid one-word domains from Unique 
 
 **Public extract:** 9,381 rows · **Live catalog:** 9,381 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/bid`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | learning.bid   | available | $9.98     | —             | 76             | 39     | 8      | namecheap                                           |
-| active.bid     | resell    | $5,748.85 | $37.99        | 104            | 31     | 6      | Dynadot Inc                                         |
+| active.bid     | resell    | $5,748.85 | $37.99        | 104            | 30     | 6      | Dynadot Inc                                         |
 | converse.bid   | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com                                            |
 | student.bid    | available | $9.98     | —             | 78             | 37     | 7      | namecheap                                           |
 | taiwan.bid     | resell    | —         | —             | 66             | 93     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
@@ -76,7 +76,7 @@ print(df.head())
 | statistics.bid | available | $9.98     | —             | 60             | 34     | 10     | namecheap                                           |
 | wise.bid       | resell    | —         | —             | 98             | 72     | 4      | Dynadot Inc                                         |
 | enterprise.bid | premium   | $455      | $65           | 68             | 61     | 10     | namecheap                                           |
-| able.bid       | available | $9.98     | —             | 80             | 33     | 4      | namecheap                                           |
+| able.bid       | available | $9.98     | —             | 80             | 32     | 4      | namecheap                                           |
 | solo.bid       | resell    | —         | —             | 116            | 68     | 4      | GoDaddy.com, LLC                                    |
 | ace.bid        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                                            |
 | metal.bid      | available | $9.98     | —             | 114            | 30     | 5      | namecheap                                           |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BID One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BID One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
