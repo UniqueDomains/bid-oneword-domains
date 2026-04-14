@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bid one-word domains from Unique 
 
 **Public extract:** 9,381 rows · **Live catalog:** 9,381 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/bid`  
 **Best for:** founders, investors, studios
 
@@ -74,15 +74,15 @@ print(df.head())
 | fire.bid       | resell    | —         | —             | 80             | 75     | 4      | Porkbun                                             |
 | seventeen.bid  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                            |
 | statistics.bid | available | $9.98     | —             | 60             | 34     | 10     | namecheap                                           |
-| wise.bid       | resell    | —         | —             | 98             | 72     | 4      | Dynadot Inc                                         |
+| wise.bid       | resell    | —         | —             | 98             | 71     | 4      | Dynadot Inc                                         |
 | enterprise.bid | premium   | $455      | $65           | 68             | 61     | 10     | namecheap                                           |
 | able.bid       | available | $9.98     | —             | 80             | 32     | 4      | namecheap                                           |
 | solo.bid       | resell    | —         | —             | 116            | 68     | 4      | GoDaddy.com, LLC                                    |
 | ace.bid        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                                            |
 | metal.bid      | available | $9.98     | —             | 114            | 30     | 5      | namecheap                                           |
-| flash.bid      | resell    | —         | —             | 64             | 67     | 5      | Porkbun                                             |
+| flash.bid      | resell    | —         | —             | 64             | 66     | 5      | Porkbun                                             |
 | alpha.bid      | premium   | $6,250    | $125          | 90             | 53     | 5      | name.com                                            |
-| wicked.bid     | available | $9.98     | —             | 70             | 30     | 6      | namecheap                                           |
+| essential.bid  | available | $9.98     | —             | 98             | 28     | 9      | namecheap                                           |
 | square.bid     | resell    | —         | —             | 72             | 65     | 6      | Porkbun                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BID One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BID One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
