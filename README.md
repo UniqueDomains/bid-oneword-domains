@@ -1,22 +1,22 @@
-# Available .BID One-Word Domains (9,381)
+# Available .BID One-Word Domains (12,116)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C381%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C381%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C116%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .bid one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .bid one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,116 domains** on the canonical page below.
 
-**Public extract:** 9,381 rows · **Live catalog:** 9,381 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,116 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/bid`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BID one-word domain c
 
 ### Files
 
-- `bid.csv` — public CSV extract (9,381 rows)
-- `bid.json` — public JSON extract (9,381 rows)
+- `bid.csv` — public CSV extract (1,000 rows)
+- `bid.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| learning.bid   | available | $9.98     | —             | 76             | 39     | 8      | namecheap                                           |
-| active.bid     | resell    | $5,748.85 | $37.99        | 104            | 30     | 6      | Dynadot Inc                                         |
-| converse.bid   | premium   | $437.50   | $62.50        | 64             | 73     | 8      | name.com                                            |
-| student.bid    | available | $9.98     | —             | 78             | 37     | 7      | namecheap                                           |
-| taiwan.bid     | resell    | —         | —             | 66             | 93     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| nationwide.bid | premium   | $437.50   | $62.50        | 76             | 66     | 10     | name.com                                            |
-| sharp.bid      | available | $9.98     | —             | 84             | 36     | 5      | namecheap                                           |
-| fire.bid       | resell    | —         | —             | 80             | 75     | 4      | Porkbun                                             |
-| seventeen.bid  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com                                            |
-| statistics.bid | available | $9.98     | —             | 60             | 34     | 10     | namecheap                                           |
-| wise.bid       | resell    | —         | —             | 98             | 71     | 4      | Dynadot Inc                                         |
-| enterprise.bid | premium   | $455      | $65           | 68             | 61     | 10     | namecheap                                           |
-| able.bid       | available | $9.98     | —             | 80             | 32     | 4      | namecheap                                           |
-| solo.bid       | resell    | —         | —             | 116            | 68     | 4      | GoDaddy.com, LLC                                    |
-| ace.bid        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com                                            |
-| metal.bid      | available | $9.98     | —             | 114            | 30     | 5      | namecheap                                           |
-| flash.bid      | resell    | —         | —             | 64             | 66     | 5      | Porkbun                                             |
-| alpha.bid      | premium   | $6,250    | $125          | 90             | 53     | 5      | name.com                                            |
-| essential.bid  | available | $9.98     | —             | 98             | 28     | 9      | namecheap                                           |
-| square.bid     | resell    | —         | —             | 72             | 65     | 6      | Porkbun                                             |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| IsleofMan.bid     | available | $9.98     | —             | 62             | 91     | 11     | namecheap          |
+| online.bid        | resell    | —         | —             | 70             | 62     | 7      | Porkbun            |
+| Chanel.bid        | premium   | $490      | $70           | 80             | 77     | 6      | namecheap          |
+| travelers.bid     | available | $5.25     | $6.25         | 58             | 61     | 9      | namesilo           |
+| prompts.bid       | resell    | —         | —             | 54             | 39     | 7      | Dynadot Inc        |
+| insight.bid       | premium   | $437.50   | —             | 76             | 69     | 8      | name.com           |
+| neuroscience.bid  | available | $9.98     | —             | 80             | 37     | 12     | namecheap          |
+| wines.bid         | resell    | —         | —             | 63             | 16     | 5      | Porkbun            |
+| RedSox.bid        | premium   | $490      | $70           | 72             | 60     | 7      | namecheap          |
+| dogs.bid          | available | $9.98     | —             | 76             | 28     | 4      | namecheap          |
+| rides.bid         | resell    | —         | —             | 56             | 15     | 5      | NameCheap, Inc.    |
+| keepthechange.bid | premium   | $437.50   | —             | 46             | 59     | 15     | name.com           |
+| gems.bid          | available | $5.25     | $6.25         | 70             | 28     | 4      | namesilo           |
+| horses.bid        | resell    | —         | —             | 56             | 14     | 6      | OwnRegistrar, Inc. |
+| Ryan.bid          | premium   | $490      | $70           | 60             | 44     | 4      | namecheap          |
+| gods.bid          | available | $9.98     | —             | 72             | 27     | 4      | namecheap          |
+| electricians.bid  | resell    | —         | —             | 56             | 10     | 12     | NameCheap, Inc.    |
+| jobs.bid          | premium   | $6,250    | —             | 79             | 42     | 4      | name.com           |
+| tips.bid          | available | $9.98     | —             | 80             | 26     | 4      | namecheap          |
+| trading.bid       | premium   | $946.42   | —             | 78             | 35     | 7      | NameSilo, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,381-row public sample | 9,381 live domains                               |
+| 1,000-row public sample | 12,116 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BID One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BID One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
