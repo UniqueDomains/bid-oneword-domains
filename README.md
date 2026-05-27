@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bid one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,301 domains · **Median ask:** $315.91 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/bid`  
 **Best for:** founders, investors, studios
 
@@ -73,10 +73,10 @@ print(df.head())
 | neuroscience.bid | available | $9.98     | —             | 80             | 37     | 12     | namecheap          |
 | wines.bid        | resell    | —         | —             | 63             | 16     | 5      | Porkbun            |
 | RedSox.bid       | premium   | $490      | $70           | 72             | 60     | 7      | namecheap          |
-| dogs.bid         | available | $9.98     | —             | 76             | 28     | 4      | namecheap          |
+| gods.bid         | available | $9.98     | —             | 72             | 29     | 4      | namecheap          |
 | rides.bid        | resell    | —         | —             | 56             | 15     | 5      | NameCheap, Inc.    |
 | Ryan.bid         | premium   | $490      | $70           | 60             | 44     | 4      | namecheap          |
-| gods.bid         | available | $9.98     | —             | 72             | 27     | 4      | namecheap          |
+| dogs.bid         | available | $9.98     | —             | 76             | 28     | 4      | namecheap          |
 | horses.bid       | resell    | —         | —             | 56             | 14     | 6      | OwnRegistrar, Inc. |
 | jobs.bid         | premium   | $6,250    | —             | 79             | 42     | 4      | name.com           |
 | tips.bid         | available | $9.98     | —             | 80             | 26     | 4      | namecheap          |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BID One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BID One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
