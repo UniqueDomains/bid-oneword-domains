@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .bid one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,301 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,301 domains · **Median ask:** $315.91 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,301 domains · **Median ask:** $394.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/bid`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| IsleofMan.bid    | available | $9.98     | —             | 62             | 91     | 11     | namecheap          |
-| online.bid       | resell    | —         | —             | 70             | 62     | 7      | Porkbun            |
-| Chanel.bid       | premium   | $490      | $70           | 80             | 77     | 6      | namecheap          |
-| travelers.bid    | available | $5.25     | $6.25         | 58             | 61     | 9      | namesilo           |
-| prompts.bid      | resell    | —         | —             | 54             | 39     | 7      | Dynadot Inc        |
-| insight.bid      | premium   | $437.50   | —             | 76             | 69     | 8      | name.com           |
-| neuroscience.bid | available | $9.98     | —             | 80             | 37     | 12     | namecheap          |
-| wines.bid        | resell    | —         | —             | 63             | 16     | 5      | Porkbun            |
-| RedSox.bid       | premium   | $490      | $70           | 72             | 60     | 7      | namecheap          |
-| gods.bid         | available | $9.98     | —             | 72             | 29     | 4      | namecheap          |
-| rides.bid        | resell    | —         | —             | 56             | 15     | 5      | NameCheap, Inc.    |
-| Ryan.bid         | premium   | $490      | $70           | 60             | 44     | 4      | namecheap          |
-| dogs.bid         | available | $9.98     | —             | 76             | 28     | 4      | namecheap          |
-| horses.bid       | resell    | —         | —             | 56             | 14     | 6      | OwnRegistrar, Inc. |
-| jobs.bid         | premium   | $6,250    | —             | 79             | 42     | 4      | name.com           |
-| tips.bid         | available | $9.98     | —             | 80             | 26     | 4      | namecheap          |
-| trading.bid      | premium   | $946.42   | —             | 78             | 35     | 7      | NameSilo, LLC      |
-| destination.bid  | available | $9.98     | —             | 90             | 24     | 11     | namecheap          |
-| spectra.bid      | premium   | $437.50   | —             | 62             | 34     | 7      | name.com           |
-| whats.bid        | available | $5.25     | $6.25         | 58             | 24     | 5      | namesilo           |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| spring.bid   | available | $5.25     | $6.25         | 66             | 36     | 6      | namesilo                                                  |
+| bolt.bid     | resell    | $9.98     | —             | 66             | 47     | 4      | Dynadot Inc                                               |
+| outlook.bid  | premium   | $437.50   | —             | 95             | 73     | 7      | name.com                                                  |
+| student.bid  | available | $9.98     | —             | 78             | 35     | 7      | namecheap                                                 |
+| power.bid    | resell    | —         | —             | 98             | 63     | 5      | Porkbun                                                   |
+| Spotify.bid  | premium   | $437.50   | —             | 78             | 69     | 7      | name.com                                                  |
+| faith.bid    | available | $5.25     | $6.25         | 78             | 33     | 5      | namesilo                                                  |
+| business.bid | resell    | —         | —             | 100            | 52     | 8      | Porkbun                                                   |
+| lively.bid   | premium   | $437.50   | —             | 70             | 64     | 6      | name.com                                                  |
+| port.bid     | available | $5.25     | $6.25         | 66             | 33     | 4      | namesilo                                                  |
+| shop.bid     | resell    | —         | —             | 78             | 52     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| motive.bid   | premium   | $437.50   | —             | 112            | 62     | 6      | name.com                                                  |
+| invite.bid   | available | $5.25     | $6.25         | 102            | 30     | 6      | namesilo                                                  |
+| bloom.bid    | resell    | —         | —             | 72             | 51     | 5      | Dynadot Inc                                               |
+| WhiteSox.bid | premium   | $437.50   | —             | 66             | 60     | 9      | name.com                                                  |
+| area.bid     | available | $5.25     | $6.25         | 78             | 30     | 4      | namesilo                                                  |
+| startup.bid  | resell    | —         | —             | 82             | 49     | 7      | Dynadot Inc                                               |
+| self.bid     | premium   | $625      | —             | 64             | 50     | 4      | name.com                                                  |
+| june.bid     | available | $5.25     | $6.25         | 72             | 30     | 4      | namesilo                                                  |
+| panda.bid    | resell    | —         | —             | 88             | 47     | 5      | Porkbun                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BID One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BID One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
