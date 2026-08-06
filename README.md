@@ -1,10 +1,10 @@
-# Available .BID One-Word Domains (12,301)
+# Available .BID One-Word Domains (12,299)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C301%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C299%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .bid one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,301 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,299 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,301 domains · **Median ask:** $394.41 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,299 domains · **Median ask:** $361.30 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/bid`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bid`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BID one-word domain c
 
 ### Files
 
-- `bid.csv` — public CSV extract (1,000 rows)
-- `bid.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bid.csv`, public CSV extract (1,000 rows)
+- `bid.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| spring.bid   | available | $5.25     | $6.25         | 66             | 36     | 6      | namesilo                                                  |
-| bolt.bid     | resell    | $9.98     | —             | 66             | 47     | 4      | Dynadot Inc                                               |
-| outlook.bid  | premium   | $437.50   | —             | 95             | 73     | 7      | name.com                                                  |
-| student.bid  | available | $9.98     | —             | 78             | 35     | 7      | namecheap                                                 |
-| power.bid    | resell    | —         | —             | 98             | 63     | 5      | Porkbun                                                   |
-| Spotify.bid  | premium   | $437.50   | —             | 78             | 69     | 7      | name.com                                                  |
-| faith.bid    | available | $5.25     | $6.25         | 78             | 33     | 5      | namesilo                                                  |
-| business.bid | resell    | —         | —             | 100            | 52     | 8      | Porkbun                                                   |
-| lively.bid   | premium   | $437.50   | —             | 70             | 64     | 6      | name.com                                                  |
-| port.bid     | available | $5.25     | $6.25         | 66             | 33     | 4      | namesilo                                                  |
-| shop.bid     | resell    | —         | —             | 78             | 52     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| motive.bid   | premium   | $437.50   | —             | 112            | 62     | 6      | name.com                                                  |
-| invite.bid   | available | $5.25     | $6.25         | 102            | 30     | 6      | namesilo                                                  |
-| bloom.bid    | resell    | —         | —             | 72             | 51     | 5      | Dynadot Inc                                               |
-| WhiteSox.bid | premium   | $437.50   | —             | 66             | 60     | 9      | name.com                                                  |
-| area.bid     | available | $5.25     | $6.25         | 78             | 30     | 4      | namesilo                                                  |
-| startup.bid  | resell    | —         | —             | 82             | 49     | 7      | Dynadot Inc                                               |
-| self.bid     | premium   | $625      | —             | 64             | 50     | 4      | name.com                                                  |
-| june.bid     | available | $5.25     | $6.25         | 72             | 30     | 4      | namesilo                                                  |
-| panda.bid    | resell    | —         | —             | 88             | 47     | 5      | Porkbun                                                   |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| agog.bid | available | $5.98     | $9.98         | low            | low    | 4      | namecheap                                                 |
+| bolt.bid | resell    | $9.98     | —             | medium         | medium | 4      | Dynadot Inc                                               |
+| age.bid  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| area.bid | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| old.bid  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.       |
+| aid.bid  | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
+| awry.bid | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
+| beat.bid | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
+| aim.bid  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| cali.bid | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
+| beer.bid | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
+| awe.bid  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
+| clxv.bid | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
+| fair.bid | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
+| beg.bid  | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
+| cxlv.bid | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
+| hero.bid | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| ben.bid  | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
+| foot.bid | available | $9.98     | —             | medium         | low    | 4      | namecheap                                                 |
+| king.bid | resell    | —         | —             | high           | medium | 4      | Porkbun                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,301 live domains                        |
+| 1,000-row public sample | 12,299 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 18 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .bid domains. The set spans broad dictionary terms, action words, and commercially suggestive words such as billion.bid, play.bid, title.bid, and surfboard.bid. For founders, the key question is whether the word still feels memorable and credible on .bid, rather than on a more mainstream extension. For investors, the core test is pricing discipline: the median ask is 312.88, so a name should justify that level through clarity, resale optionality, or a strong keyword-extension fit. When comparing these domains, focus on single-word strength, extension relevance, and the risk that some words will feel less ownable or less versatile outside auction-oriented use cases.
+This set of .bid domains spans 12,299 one-word names, most tagged as modern in tone, with elegant and playful options mixed in. Roughly 7,561 are available outright, while 4,420 carry premium pricing and 318 are held for resale. Median ask sits near $361, though most names list under $500 and a smaller group crosses into four figures — useful signal when comparing renewal cost against brandability.
 
-- One-word .bid domains only
-- 12,308 domains in this selection
-- Median ask: 312.88
-- Best judged by word quality and .bid fit
+- 12,299 one-word .bid domains, median ask ~$361
+- 7,561 available now; 4,420 premium; 318 resale
+- 9,661 priced under $500; only 32 top $10k+
+- 583 launch-ready; 93 flagged low-risk for founders
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BID One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BID One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
