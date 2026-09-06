@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bid one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,372 domains · **Median ask:** $258.30 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/bid`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| agog.bid | available | $5.98     | $9.98         | low            | low    | 4      | namecheap                                                 |
-| bolt.bid | resell    | $9.98     | —             | medium         | medium | 4      | Dynadot Inc                                               |
-| age.bid  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| area.bid | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| old.bid  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.       |
-| aid.bid  | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
-| awry.bid | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
-| beat.bid | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
-| aim.bid  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| cali.bid | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                                  |
-| beer.bid | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
-| awe.bid  | premium   | $625      | —             | high           | low    | 3      | name.com                                                  |
-| clxv.bid | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
-| fair.bid | resell    | —         | —             | high           | low    | 4      | Porkbun                                                   |
-| beg.bid  | premium   | $625      | —             | medium         | low    | 3      | name.com                                                  |
-| cxlv.bid | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                                  |
-| hero.bid | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| ben.bid  | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
-| foot.bid | available | $9.98     | —             | medium         | low    | 4      | namecheap                                                 |
-| king.bid | resell    | —         | —             | high           | medium | 4      | Porkbun                                                   |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| sorry.bid   | premium   | $437.50   | $62.50        | high           | low    | 5      | name.com                                            |
+| beauty.bid  | resell    | —         | —             | high           | low    | 6      | Porkbun                                             |
+| nothing.bid | premium   | $1,107    | $116          | high           | low    | 7      | namesilo                                            |
+| wrong.bid   | premium   | $437.50   | —             | high           | low    | 5      | name.com                                            |
+| agog.bid    | available | $5.98     | $9.98         | low            | low    | 4      | namecheap                                           |
+| bolt.bid    | resell    | $9.98     | —             | medium         | medium | 4      | Dynadot Inc                                         |
+| age.bid     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| area.bid    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| old.bid     | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| aid.bid     | premium   | $625      | —             | medium         | low    | 3      | name.com                                            |
+| awry.bid    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
+| beat.bid    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
+| aim.bid     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| cali.bid    | available | $5.25     | $6.25         | high           | low    | 4      | namesilo                                            |
+| beer.bid    | resell    | —         | —             | high           | low    | 4      | Porkbun                                             |
+| awe.bid     | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| clxv.bid    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
+| fair.bid    | resell    | —         | —             | high           | low    | 4      | Porkbun                                             |
+| beg.bid     | premium   | $625      | —             | medium         | low    | 3      | name.com                                            |
+| cxlv.bid    | available | $5.25     | $6.25         | low            | low    | 4      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BID One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BID One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
