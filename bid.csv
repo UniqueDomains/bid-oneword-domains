@@ -5,22 +5,22 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8a98d764-e8d4-4f14-b570-32e153aee509,septenary.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 0efa4046-68b5-4a60-b513-a2c416545197,mostly.bid,available,5.25,6.25,high,low,6,namesilo,,,
 cc239d8a-3036-44e1-b91c-338e0ca6979c,timely.bid,available,5.25,6.25,high,low,6,namesilo,,,06/08/2026 10:08
-5a623fc1-8534-4712-8183-c1d87488f541,proper.bid,premium,437.5,,high,low,6,name.com,,,
-1bc37086-f161-4cce-b944-036caf54f7e4,ordinary.bid,premium,3125,,high,low,8,name.com,,,
+5a623fc1-8534-4712-8183-c1d87488f541,proper.bid,premium,448,53.92,medium,low,6,namesilo,,,25/09/2026 17:25
+1bc37086-f161-4cce-b944-036caf54f7e4,ordinary.bid,premium,3450,116,high,low,8,namesilo,,,26/09/2026 00:20
 98d9b7ba-ab46-4f2e-a5ff-35c5be5bee08,azonal.bid,available,5.25,6.25,medium,low,6,namesilo,,,08/08/2026 02:27
 61ebf2af-9df4-4ee1-9045-551c6965803e,coordinate.bid,premium,448,53.92,high,low,10,namesilo,,,08/09/2026 03:35
-f34d1c8b-2e98-4f9a-89e7-54071866c989,intend.bid,premium,437.5,,high,low,6,name.com,,,
+f34d1c8b-2e98-4f9a-89e7-54071866c989,intend.bid,premium,455,65,high,low,6,namecheap,,,25/09/2026 18:20
 ab67bd09-6f00-4b91-b97b-d72f5e0d94a4,follower.bid,premium,437.5,,high,low,8,name.com,,,
 b89fad92-1907-4a56-a8b3-f7ab91a40169,aboulic.bid,available,5.25,6.25,medium,low,7,namesilo,,,
 ad893631-a32b-4beb-ad3e-9c7e87cc2f39,slighting.bid,available,5.25,6.25,medium,low,9,namesilo,,,09/08/2026 13:15
-7df772b4-ecfd-42cb-93f6-456f841b782c,knowing.bid,premium,437.5,,high,low,7,name.com,,,
 3e579f38-425c-4a11-9808-f4dacd9e9dfe,awol.bid,premium,437.5,62.5,high,low,4,name.com,,,08/08/2026 01:46
 f23b1225-4d2b-41bf-8129-b79bc36dd936,taco.bid,premium,437.5,,high,low,4,name.com,,,
 2d7c976b-0e5f-448d-a6eb-e77bd141a93a,clxxx.bid,available,5.25,6.25,medium,low,5,namesilo,,,
+d2ecf83d-0a1f-4e9e-881b-8fc5e33baa0f,mining.bid,available,5.25,6.25,high,low,6,namesilo,,,25/09/2026 12:05
 b60bb383-91e2-42bd-9cd6-2cb3ee3f9b49,adnate.bid,available,5.25,6.25,medium,low,6,namesilo,,,
 9f1bcc56-5a73-4319-90a2-4faeb70de2b1,she.bid,premium,625,,high,low,3,name.com,,,
 605c11eb-616d-4b6a-9069-66dfee0cbd3c,plug.bid,premium,437.5,,high,low,4,name.com,,,
-c1e8520e-f4c9-4ad6-9170-63bad773ca90,archetypal.bid,available,5.25,6.25,high,low,10,namesilo,,,06/08/2026 15:32
+c1e8520e-f4c9-4ad6-9170-63bad773ca90,archetypal.bid,available,5.25,6.25,medium,low,10,namesilo,,,06/08/2026 15:32
 f75fb221-879f-436c-974f-05ad9a3d034c,adherent.bid,available,5.25,6.25,high,low,8,namesilo,,,
 503bd460-f30c-4754-b555-0b67d7772a48,tug.bid,premium,625,,high,low,3,name.com,,,
 5c587cf5-dfe3-4f3f-a5ba-cd7ded794ddd,actinoid.bid,available,5.25,6.25,medium,low,8,namesilo,,,
@@ -75,7 +75,7 @@ d90e48cf-b368-4e9a-97fd-204fe5d62b72,liable.bid,available,5.25,6.25,high,low,6,n
 0010e8e8-4375-4935-9431-cfad55ae285e,escaped.bid,available,5.25,6.25,medium,low,7,namesilo,,,07/08/2026 11:22
 62368b7e-ea4d-4de4-8e5c-1b600e5d20da,skirt.bid,available,9.98,,high,low,5,namecheap,,,
 ee57f004-7c6d-4e31-9dd7-939431b0c1fc,risk.bid,resell,,,high,low,4,Dynadot Inc,02/08/2019 13:58,02/08/2027 13:58,08/09/2026 12:49
-cc86904b-2609-489a-84eb-dff43927c06b,tetrad.bid,premium,437.5,62.5,high,low,6,name.com,,,
+cc86904b-2609-489a-84eb-dff43927c06b,tetrad.bid,premium,437.5,62.5,medium,low,6,name.com,,,
 9933dd29-db2d-4f65-a18e-b0e579649e68,insurance.bid,resell,,,high,medium,9,Dynadot Inc,26/07/2019 14:18,26/07/2027 14:18,20/09/2026 00:16
 a772fcd9-c401-45ab-9de3-5a2e2497688f,powered.bid,premium,437.5,,high,low,7,name.com,,,
 a4fdba10-69f7-4f5b-b34e-66e5f3a5a9c0,exclamation.bid,premium,437.5,,high,low,11,name.com,,,
@@ -87,7 +87,7 @@ a157c8d6-a8dc-43dc-b197-2fb25eff6138,modelling.bid,available,9.98,,high,low,9,na
 2897e240-8cf4-4f0b-9400-6eac545756b8,singletree.bid,available,9.98,,medium,low,11,namecheap,,,
 955ddf76-79e3-42c0-8e33-e8a8442ae5f3,antidotal.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 d4bf628f-1ec5-4cae-9864-5356624ff162,midwinter.bid,available,5.25,6.25,medium,low,10,namesilo,,,
-db4a410d-5b4a-4501-ae8c-f9a924811411,pinging.bid,available,5.25,6.25,high,low,7,namesilo,,,
+db4a410d-5b4a-4501-ae8c-f9a924811411,pinging.bid,available,5.25,6.25,medium,low,7,namesilo,,,
 9f873611-922e-47e8-8784-5288787a3900,instagrammable.bid,available,5.25,6.25,medium,low,14,namesilo,,,
 7b3ab4c7-2517-47d6-a5ee-013096f4fde0,together.bid,premium,437.5,,high,medium,8,name.com,,,
 9edb75cb-97e0-43b6-82a0-181b5ec4299c,professor.bid,premium,1107,116,high,low,9,namesilo,,,
@@ -122,7 +122,7 @@ bdd103b3-6d70-4073-95c9-ceda4fc80f6d,ascetic.bid,available,5.25,6.25,high,low,7,
 580349af-6c57-48cb-b0fe-1f7a6b9aec4c,quilting.bid,available,5.25,6.25,high,low,8,namesilo,,,
 6d978f30-bbfc-4389-b834-970f9e044394,stroke.bid,premium,1250,,high,low,6,name.com,,,
 8a782a55-0290-449e-b4b0-319950555a1b,aneroid.bid,available,5.25,6.25,medium,low,7,namesilo,,,
-e3068b8d-becf-4be0-9b06-71728ecffde4,afrikaans.bid,available,5.25,6.25,high,low,9,namesilo,,,
+e3068b8d-becf-4be0-9b06-71728ecffde4,afrikaans.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 5e714bf2-019d-4f7a-80fc-d65542abf686,steak.bid,premium,1250,,high,low,5,name.com,,,
 ce49e3d0-a0b2-43bd-a5ad-7800b409ab6f,aid.bid,premium,625,,high,low,3,name.com,,,
 91eab0ac-2784-4dd3-bc85-29b20882e09d,accordant.bid,available,5.25,6.25,high,low,9,namesilo,,,
@@ -131,10 +131,11 @@ d11df978-2cdc-4d38-9847-f964d03f26a5,assorted.bid,available,5.25,6.25,medium,low
 f7babd37-d0af-42e5-906c-b8dae8290146,banded.bid,premium,437.5,62.5,medium,low,6,name.com,,,08/08/2026 11:40
 4a55822d-357f-4835-bbb6-d2fb42a08b0d,mcdonald.bid,available,5.25,6.25,high,low,8,namesilo,,,
 25ac84c9-2879-4005-96de-1db7a9c5d3a9,inconsistent.bid,available,5.25,6.25,medium,low,12,namesilo,,,
-c1a9da2c-622a-4b56-bd3f-7c683fb48f38,squall.bid,premium,437.5,,high,low,6,name.com,,,
+c1a9da2c-622a-4b56-bd3f-7c683fb48f38,squall.bid,premium,437.5,,medium,low,6,name.com,,,
 70641a23-3226-4810-befb-bd2395e0176d,animal.bid,premium,6250,125,high,low,6,name.com,,,08/09/2026 11:39
+e1cfc1e0-8921-4f40-8c1c-a7ecab5ed31c,business.bid,resell,,,high,medium,8,Dynadot Inc,26/07/2019 14:26,26/07/2027 14:26,25/09/2026 15:49
 358d3fb5-6eb7-4036-8810-95501735bdd2,tracy.bid,premium,437.5,,high,low,5,name.com,,,
-ff7fc4b7-dcf4-4c2f-bf4a-06dd6752c9d1,until.bid,premium,437.5,,high,low,5,name.com,,,
+ff7fc4b7-dcf4-4c2f-bf4a-06dd6752c9d1,until.bid,premium,437.5,,medium,low,5,name.com,,,
 21727da5-3576-423b-b798-1943fe4267f8,resonating.bid,available,5.25,6.25,high,low,10,namesilo,,,
 558ee471-8e22-4443-8f6e-303c376ac5a2,regret.bid,premium,625,,high,low,6,name.com,,,
 08b2137a-f930-417c-b8f1-fbdc78bc68de,beg.bid,premium,625,,high,low,3,name.com,,,
@@ -145,13 +146,12 @@ e17ef316-3aeb-4be1-9249-4ee737c0ec17,brie.bid,premium,437.5,,high,low,4,name.com
 7e6e1e0d-ecdf-4498-8039-534f14736b6f,pleasure.bid,premium,3125,,high,low,8,name.com,,,
 addbfbbd-9cc8-463e-b98f-464c6d18bff3,prolife.bid,premium,437.5,,high,low,8,name.com,,,
 51ee653c-a422-44d1-918f-5420140d16e9,bantu.bid,premium,437.5,62.5,medium,low,5,name.com,,,08/08/2026 14:50
-d16d5138-cd8d-4592-b869-7db91ee806bf,lit.bid,premium,625,,high,medium,3,name.com,,,
 129c7e33-d330-4c9c-bf83-a9064c210c58,maddened.bid,available,5.25,6.25,medium,low,8,namesilo,,,
 5e5a2296-b39f-4edd-a6bb-c0d3e7225e9d,faith.bid,available,5.25,6.25,high,low,5,namesilo,,,
 8f67e8b3-83f4-4596-ae67-b4d587a2db09,highschool.bid,available,5.25,6.25,high,low,10,namesilo,,,
 8957e8b9-921e-432d-ba4b-0d80645814d1,decay.bid,premium,437.5,,high,low,5,name.com,,,
 e61adb09-ffb5-41d4-8ed6-209ebe98d03b,abroach.bid,available,5.25,6.25,medium,low,7,namesilo,,,
-b0261762-4ed3-43e1-9b25-6c94158fb2bf,tangle.bid,premium,437.5,,high,low,6,name.com,,,
+b0261762-4ed3-43e1-9b25-6c94158fb2bf,tangle.bid,premium,448,53.92,high,low,6,namesilo,,,25/09/2026 17:42
 54585fbc-948b-45d7-b6d1-df8be604bd90,worsening.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 d8c7bd59-d6f1-4cec-8687-d938b4387f9e,anger.bid,premium,125,,high,low,5,name.com,,,
 2631c465-ab30-4ddf-a0c7-cb0ae19f6734,another.bid,available,9.98,,high,low,7,namecheap,,,
@@ -165,7 +165,7 @@ d96fbb7d-d313-4a54-8ad0-4b1639b0f445,beauteous.bid,premium,437.5,62.5,medium,low
 9181df24-bb01-47fa-bcfb-99dbbb2151d6,barbate.bid,available,5.25,6.25,medium,low,7,namesilo,,,08/08/2026 16:10
 12d062df-47f3-45ac-88d7-b8e077508d5d,fauna.bid,premium,437.5,62.5,high,low,5,name.com,,,
 03144e1d-4256-439a-920c-fd3c3f6430c7,supported.bid,available,5.25,6.25,high,low,9,namesilo,,,
-2e853470-d72b-44d8-b115-e4eb47197d7a,monumental.bid,premium,437.5,,high,low,10,name.com,,,
+2e853470-d72b-44d8-b115-e4eb47197d7a,monumental.bid,premium,448,53.92,high,low,10,namesilo,,,25/09/2026 17:13
 93bf206c-70a1-49b8-931d-acfcf20a132e,cali.bid,available,5.25,6.25,high,low,4,namesilo,,,
 9dd9e094-3cc2-40c3-8928-061927ea9bcc,senescent.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 6c9412c6-2786-4327-918a-f23cac120f3a,tasting.bid,available,5.25,6.25,high,low,7,namesilo,,,
@@ -189,7 +189,7 @@ f35de223-97a6-4425-814b-18bc0c0ad2dd,generally.bid,available,5.25,6.25,high,low,
 30944e11-f671-493b-a187-4723c6f5d726,thee.bid,premium,437.5,,high,low,4,name.com,,,
 109a2ec4-ed71-4944-b3ff-8f88bace64a3,bye.bid,premium,625,,high,low,3,name.com,,,
 c3c7dd0d-480d-49a1-86b3-d73158d7bd2a,loaded.bid,premium,437.5,62.5,high,low,6,name.com,,,
-0730593b-628e-4aa3-b936-50e7b9a6a59c,pretense.bid,premium,437.5,,high,low,8,name.com,,,
+0730593b-628e-4aa3-b936-50e7b9a6a59c,pretense.bid,premium,448,53.92,high,low,8,namesilo,,,25/09/2026 16:21
 2ea8e955-0578-46e1-96d3-00caa8769f8e,upc.bid,premium,625,,high,low,3,name.com,,,
 a055f279-c5a5-42b1-b26f-a6ad9b20373d,attention.bid,available,5.25,6.25,high,low,9,namesilo,,,
 7f72352d-27b0-4ef6-9aca-6555d93c978e,use.bid,premium,625,,high,low,3,name.com,,,
@@ -199,14 +199,14 @@ e28506e7-f73e-43c6-9f1e-aa33294db6e9,ben.bid,premium,625,,high,medium,3,name.com
 c1e19cf3-7f23-4c45-8808-952d4ee3d28f,achiever.bid,premium,116,29.5,high,low,8,namesilo,,,
 cd1a9251-659e-4cf6-aa18-4b2731a264f9,pound.bid,available,9.98,,high,low,5,namecheap,,,
 ea92275f-9cae-479d-901e-10365c21c6df,beefy.bid,premium,437.5,62.5,medium,low,5,name.com,,,09/08/2026 07:49
-b7a65c6d-234c-4d09-b9d9-de0efaa8877d,pretence.bid,available,5.25,6.25,high,low,8,namesilo,,,
+b7a65c6d-234c-4d09-b9d9-de0efaa8877d,pretence.bid,available,5.25,6.25,high,low,8,namesilo,,,25/09/2026 16:31
 572ac697-739c-403b-8e11-a4984739e309,lock.bid,premium,625,,high,low,4,name.com,,,
 c87af228-35e6-4ccb-9405-c834f0a1bc1d,hear.bid,premium,437.5,,high,low,4,name.com,,,
 3ef35267-3e73-408c-8436-cb740265bddf,adonic.bid,available,5.25,6.25,medium,low,6,namesilo,,,
 d767e36a-1c6d-4877-a4f1-2dc79def9522,wagon.bid,premium,437.5,,high,low,5,name.com,,,
 58c3696c-79ca-429b-9948-61af1a6d6c92,balance.bid,premium,1107,116,high,low,7,namesilo,,,
 a1077457-df9e-4f09-a389-5fc6c7c5d8e8,algebraic.bid,available,5.25,6.25,high,low,9,namesilo,,,
-8854b714-1868-414c-ae65-55ef95b313fb,grumpy.bid,premium,437.5,62.5,high,low,6,name.com,,,08/08/2026 07:57
+8854b714-1868-414c-ae65-55ef95b313fb,grumpy.bid,premium,437.5,62.5,medium,low,6,name.com,,,08/08/2026 07:57
 016266cd-ce60-4fa3-a318-8b367c007881,attachable.bid,available,5.25,6.25,medium,low,10,namesilo,,,07/08/2026 15:36
 e8d6ab95-44bc-4e65-b8a8-43370b5abbfc,sufficient.bid,available,5.25,6.25,high,low,10,namesilo,,,
 1e75d1c7-f536-42a4-b106-a651142955e9,boards.bid,premium,625,,high,low,6,name.com,,,
@@ -226,21 +226,19 @@ ac25396a-d3c7-415b-ae84-a522de5a853d,honestly.bid,available,5.25,6.25,high,low,8
 29b109db-9a92-4838-b414-99d4b924a9fc,aground.bid,available,5.25,6.25,medium,low,7,namesilo,,,
 134b2302-cca3-4b89-a126-24a989635fb0,her.bid,premium,625,,high,low,3,name.com,,,
 254c873a-3d26-47d2-b322-1882e69c1ff5,slot.bid,resell,,,high,low,4,Porkbun,10/09/2019 01:11,10/09/2026 01:11,
-4f2d46f6-c037-4ef5-9add-95a884d8694b,port.bid,available,5.25,6.25,high,low,4,namesilo,,,
 e6381493-a327-4e06-af55-b18ebb71fc02,step.bid,premium,1107,116,high,low,4,namesilo,,,
 66602ca9-3fe2-4efe-92b7-000a7bf005ed,handle.bid,premium,1107,116,high,low,6,namesilo,,,08/09/2026 13:26
 5acee0a6-d7a9-44ea-821c-13f7685f2e03,bash.bid,premium,3125,,high,low,4,name.com,,,
 6a6802e1-0905-4def-8e27-2437b680cfc8,ablaze.bid,premium,437.5,62.5,high,low,6,name.com,,,
-e86b053d-e561-4929-bc6b-2f763ef7a435,motive.bid,premium,437.5,,high,medium,6,name.com,,,
+e86b053d-e561-4929-bc6b-2f763ef7a435,motive.bid,premium,448,53.92,high,medium,6,namesilo,,,25/09/2026 21:54
 9e0fadb9-c52e-4a86-9f97-644a1a63e003,rubber.bid,resell,,,high,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",15/02/2017 05:55,14/02/2028 23:59,
-e60d47ac-dacd-4835-bc24-eab1cf6297ed,interstate.bid,available,5.25,6.25,high,low,10,namesilo,,,
+e60d47ac-dacd-4835-bc24-eab1cf6297ed,interstate.bid,available,5.25,6.25,high,low,10,namesilo,,,25/09/2026 10:24
 12e988ce-11bc-43c3-89b6-1d84a1026c0a,area.bid,available,5.25,6.25,high,low,4,namesilo,,,
-62a7556f-e9e9-44e7-ad1d-00c7503c43e3,fought.bid,available,5.25,6.25,high,low,6,namesilo,,,
-812262e0-ed63-4858-a93f-ba18a5387dd8,aim.bid,premium,625,,high,low,3,name.com,,,
+62a7556f-e9e9-44e7-ad1d-00c7503c43e3,fought.bid,available,5.25,6.25,medium,low,6,namesilo,,,
 f8e8788d-cfbd-42ba-8333-6743cdc29162,redemption.bid,premium,437.5,,high,low,10,name.com,,,
 bf6bb778-311a-4f0e-a718-3d21127641a2,suspend.bid,premium,437.5,,high,low,7,name.com,,,
 914f0be3-1d20-4291-9620-6a9250958680,amnesic.bid,available,5.25,6.25,medium,low,7,namesilo,,,
-204fefb5-a20e-479b-a6de-d78b20bb5635,adrift.bid,available,5.25,6.25,high,low,6,namesilo,,,
+204fefb5-a20e-479b-a6de-d78b20bb5635,adrift.bid,available,5.25,6.25,medium,low,6,namesilo,,,
 52303231-81e0-4325-8000-4466ec2be90a,played.bid,available,5.25,6.25,high,low,6,namesilo,,,
 d684948f-c23d-4439-b5f6-b9bfce733979,france.bid,available,,,high,low,6,,,,
 b55dd31b-d72c-4545-b0a5-8c73ee7d2cea,laziness.bid,available,5.25,6.25,medium,low,8,namesilo,,,
@@ -264,7 +262,7 @@ e1ba3401-7059-4132-93b4-251fb3fd638b,bless.bid,premium,437.5,,high,low,5,name.co
 9e2f9470-e123-42f1-a3ed-93b7427834d5,poolside.bid,premium,437.5,,high,low,8,name.com,,,
 b714cafd-1261-4f92-9573-82723257fd0c,swastika.bid,available,9.98,,medium,low,8,namecheap,,,
 8f5f5b87-cffa-4961-9a10-4d6ec8b0fa7a,lobby.bid,premium,437.5,,high,low,5,name.com,,,
-14594bfe-99d0-42a0-9981-91e4d0c87e0b,import.bid,resell,,,high,low,6,"NameCheap, Inc.",28/07/2019 19:46,28/07/2030 19:46,
+14594bfe-99d0-42a0-9981-91e4d0c87e0b,import.bid,resell,,,high,low,6,"NameCheap, Inc.",28/07/2019 19:46,28/07/2030 19:46,25/09/2026 18:33
 84b040ff-7ebf-46b1-82c1-ef5d613312a1,outlook.bid,premium,437.5,,high,high,7,name.com,,,
 53153f5e-a323-468d-9db5-e230fb0b2157,softly.bid,premium,437.5,,high,low,6,name.com,,,
 41a1f36c-d49a-46b0-8bc4-2f743784dd34,abrupt.bid,available,5.25,6.25,high,low,6,namesilo,,,
@@ -274,7 +272,7 @@ b397e583-c788-4d2d-94d8-9289df2d418e,sleeping.bid,premium,437.5,,high,low,8,name
 622359b8-74de-498c-a4b6-176b643bd661,conscience.bid,premium,437.5,,high,low,10,name.com,,,
 be84cc94-dc44-41f9-9af8-28f9398d1e9e,absolutist.bid,available,5.25,6.25,high,low,10,namesilo,,,
 0c3ac432-67ed-485d-a756-a6dde27594db,nest.bid,premium,125,,high,medium,4,name.com,,,
-7e1467e6-1421-4481-868d-dde2a6308d77,unnatural.bid,premium,437.5,62.5,high,low,9,name.com,,,
+7e1467e6-1421-4481-868d-dde2a6308d77,unnatural.bid,premium,437.5,62.5,medium,low,9,name.com,,,
 11ddeb42-13c8-431c-900f-f7d438c2fbee,amidships.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 4949d830-e890-4619-819d-97c287c94f04,adventive.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 e94c07b0-376c-4f53-b32f-8a0b7e3b4fb4,omniscient.bid,premium,437.5,62.5,high,low,10,name.com,,,
@@ -285,7 +283,6 @@ e94c07b0-376c-4f53-b32f-8a0b7e3b4fb4,omniscient.bid,premium,437.5,62.5,high,low,
 15d026a1-b904-4e47-a702-fbec95623850,laudable.bid,available,5.25,6.25,high,low,8,namesilo,,,06/08/2026 07:01
 2680fdf6-2f4d-4f24-bef8-883c6a27cd63,nostrils.bid,available,5.25,6.25,medium,low,8,namesilo,,,
 93187158-a16c-43b8-85c4-fdd4ad73f77e,omen.bid,premium,437.5,,high,low,4,name.com,,,
-066846fb-019e-4994-9306-e0fab59d2f75,wrong.bid,premium,437.5,,high,low,5,name.com,,,
 589fb5c2-733b-4899-88a7-a637fd94cd1c,walkabout.bid,premium,437.5,,high,low,10,name.com,,,
 21c1fb27-13b1-4f1b-b662-bbc80fd7f607,discomfort.bid,available,5.25,6.25,high,low,10,namesilo,,,
 6ab287b5-21d8-4f53-8511-7fab1586f1e8,blanket.bid,premium,3250,130,high,low,7,namecheap,,,08/09/2026 07:17
@@ -319,8 +316,8 @@ dd04a1d6-f692-482e-b13e-c03e5af7e824,natural.bid,available,5.25,6.25,high,low,7,
 a5b5fe16-80ae-4919-bb40-850c3c029840,broadly.bid,premium,437.5,,high,low,7,name.com,,,
 ada1c9b4-65ce-4264-b2bf-0bfee89db1ce,appealing.bid,available,5.25,6.25,high,low,9,namesilo,,,06/08/2026 05:51
 1dee1c20-4ed7-48f6-be67-ccc042bda2d0,into.bid,available,5.25,6.25,high,low,4,namesilo,,,
-8e67de90-07b0-4719-bf5e-4c80653a2895,stillborn.bid,available,5.25,6.25,high,low,9,namesilo,,,
-7c7a878d-6033-4718-916d-29ac2e2e92ae,ablative.bid,available,5.25,6.25,high,low,8,namesilo,,,
+8e67de90-07b0-4719-bf5e-4c80653a2895,stillborn.bid,available,5.25,6.25,medium,low,9,namesilo,,,
+7c7a878d-6033-4718-916d-29ac2e2e92ae,ablative.bid,available,5.25,6.25,medium,low,8,namesilo,,,
 b7dfaf08-dcf5-4134-bb70-f258aff1231b,apian.bid,available,5.25,6.25,medium,low,5,namesilo,,,05/08/2026 23:47
 f648c986-0ee2-4e32-86a0-91e1215591ce,blistering.bid,available,5.25,6.25,high,low,10,namesilo,,,
 c8bd4b2d-e942-4765-9e9e-46d2be38877e,articular.bid,available,5.25,6.25,medium,low,9,namesilo,,,06/08/2026 23:26
@@ -343,7 +340,7 @@ c07ffddf-6a6a-4bad-83f2-7f93e6fcccef,feather.bid,premium,437.5,,high,low,7,name.
 677b6491-b0f1-4e26-bf1c-2d9badfa8e05,aurorean.bid,available,5.25,6.25,medium,low,8,namesilo,,,07/08/2026 18:12
 b9dae14f-2016-4386-b643-430dae737e09,phase.bid,premium,1107,116,high,low,5,namesilo,,,
 db34d0d6-7492-4a30-8944-4710d604b0bc,sixer.bid,premium,437.5,62.5,medium,low,5,name.com,,,
-bd17d168-1c31-46b3-8747-46d0febacaf5,anyone.bid,available,9.98,,high,low,6,namecheap,,,
+bd17d168-1c31-46b3-8747-46d0febacaf5,anyone.bid,available,9.98,,medium,low,6,namecheap,,,
 99e893ff-f32d-4c82-82df-7d03e7c9f279,constructive.bid,available,9.98,,high,low,12,namecheap,,,
 ee7bc4f4-2b9d-475e-a830-fae797e9c035,isbn.bid,available,5.25,6.25,high,low,4,namesilo,,,
 86c5ca2d-001a-42fe-a8bf-8294a7c6ca4e,piss.bid,available,5.25,6.25,high,low,4,namesilo,,,
@@ -357,6 +354,7 @@ e4668dcc-71be-4405-8dac-dd6345ed4f04,kansas.bid,premium,437.5,,high,low,6,name.c
 76ea65c8-7bb2-410b-b7d0-49ed826fbd2d,eliminate.bid,premium,437.5,,high,low,9,name.com,,,
 60d2c1df-7054-4c1b-a029-24eca22cca57,bleak.bid,available,5.98,9.98,medium,low,5,namecheap,,,08/08/2026 21:02
 9028d537-78b1-4bc3-afbf-88c2a5cbbf3e,hair.bid,premium,1107,116,high,low,4,namesilo,,,
+6c5482b4-a8b1-4efa-b7ed-a215451e2a3e,medicine.bid,available,5.98,9.98,high,low,8,namecheap,,,25/09/2026 22:51
 a5a80943-7f50-4253-bcfe-7cbeab8715d1,according.bid,available,5.25,6.25,high,low,9,namesilo,,,
 0bfeafb1-7747-441b-b6dc-a1875f904be1,ticking.bid,available,9.98,,high,low,7,namecheap,,,
 b1ac68c9-6b8c-4b3d-b5d5-98aaa28a58e8,pirate.bid,resell,,,high,low,6,"NameCheap, Inc.",23/04/2017 12:38,23/04/2030 12:38,
@@ -369,16 +367,15 @@ db16221d-e7d3-4f5d-9fd1-8f8b6d080000,chart.bid,premium,1107,116,high,low,5,names
 227d5f0a-fb15-433f-b984-af190d0a6401,solve.bid,available,5.25,6.25,high,low,5,namesilo,,,
 b538089a-4146-4bdf-9810-e2f96ff3180e,categorically.bid,available,5.25,6.25,medium,low,13,namesilo,,,
 d5574a0f-eae4-4ce8-9ebe-d6d5c119b58e,become.bid,premium,437.5,,high,low,6,name.com,,,
-ba152ec0-e5ed-431e-9cc4-aeaecc30dd0d,mobile.bid,available,,,high,low,6,,,,
 4cd77d43-2ee4-4b7d-a1f4-96ab57c14877,pointy.bid,premium,437.5,,high,low,6,name.com,,,
 00527158-b932-4921-a6ae-0af2b8a6a6af,prairie.bid,premium,437.5,,high,low,7,name.com,,,
 34acc517-0697-440b-9746-3ab498aeb0dd,neighborhood.bid,premium,437.5,,high,low,12,name.com,,,
-4ac83344-b0ee-47e3-9179-54564bc29067,minuscule.bid,premium,437.5,,high,low,9,name.com,,,
+4ac83344-b0ee-47e3-9179-54564bc29067,minuscule.bid,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 15:24
 644730b1-a4d5-4bb3-980c-4e1a615bbaca,fashion.bid,resell,,,high,medium,7,Porkbun,26/07/2019 14:26,26/07/2027 14:26,
 0a2f4c4b-9a38-492f-b57f-f38d938c89a6,nitid.bid,available,5.25,6.25,medium,low,5,namesilo,,,
 8e2399d4-5a49-46cb-a910-bd2f3036fb1f,anionic.bid,available,5.25,6.25,medium,low,7,namesilo,,,
-93a4c60a-fc0b-43fe-9820-244a81b3abbe,lay.bid,premium,625,,high,low,3,name.com,,,
-ce64d313-30c8-419a-897b-5440980a34e6,prone.bid,available,5.25,6.25,high,low,5,namesilo,,,
+93a4c60a-fc0b-43fe-9820-244a81b3abbe,lay.bid,premium,650,84.5,high,low,3,namecheap,,,25/09/2026 13:03
+ce64d313-30c8-419a-897b-5440980a34e6,prone.bid,available,5.25,6.25,medium,low,5,namesilo,,,
 114346fa-694e-4d5f-b63c-4b8e421dc076,industrialize.bid,available,5.25,6.25,medium,low,13,namesilo,,,
 48497a70-3445-472d-bf74-db4de29c4d27,guide.bid,resell,,,high,low,5,Porkbun,15/10/2021 11:12,15/10/2026 11:12,
 30792680-bd15-4525-8187-fec88a56f9c5,ancestral.bid,premium,437.5,62.5,high,low,9,name.com,,,
@@ -397,6 +394,7 @@ c0da9750-b9b6-41d9-8b3d-5e2eaa55f5b7,rhythmic.bid,premium,625,,high,low,8,name.c
 ad768dd3-23eb-48c7-8d73-c87818b2bc42,impressed.bid,available,5.25,6.25,high,low,9,namesilo,,,
 0da0ff06-d37e-42b3-a0a5-e4459619486c,suppose.bid,available,5.25,6.25,high,low,7,namesilo,,,
 3dbdc5ae-2a8e-4abf-b0ed-cbefc71aa5ee,andorran.bid,available,5.25,6.25,high,low,8,namesilo,,,
+c85afe89-f923-4355-99f9-cb70588f9e75,jolly.bid,available,5.25,6.25,high,low,5,namesilo,,,25/09/2026 11:52
 17d5c631-8a84-428c-8f48-a78daa0a95a1,anybody.bid,premium,6250,,medium,low,7,name.com,,,
 de7b295d-a094-467d-a5ba-97d26dd20cf0,challenging.bid,available,5.25,6.25,high,low,11,namesilo,,,
 207b6be9-2b31-45e4-808f-c96802026644,assuring.bid,available,5.25,6.25,medium,low,8,namesilo,,,07/08/2026 08:31
@@ -404,7 +402,7 @@ e05eeb9b-cc65-4ba9-a8b9-b3a142c7069c,sep.bid,premium,625,,high,low,3,name.com,,,
 283bf0bf-0634-4d21-aca4-497b768e648c,mojo.bid,premium,437.5,,high,medium,4,name.com,,,
 37992855-d015-44be-b284-0433772920b8,ingenuous.bid,available,5.25,6.25,medium,low,9,namesilo,,,06/08/2026 23:41
 8c778124-92c4-45c1-944a-6298c36b2bf7,five.bid,premium,1107,116,high,low,4,namesilo,,,
-2ed0f732-8664-4a68-a1ab-70c7c6b0b2ab,dishonesty.bid,available,5.25,6.25,high,low,10,namesilo,,,
+2ed0f732-8664-4a68-a1ab-70c7c6b0b2ab,dishonesty.bid,available,5.25,6.25,medium,low,10,namesilo,,,
 cd1875a2-aabb-4a0d-bba8-e5c756c978d6,terzetto.bid,premium,437.5,62.5,medium,low,8,name.com,,,
 093dc2f3-4b6b-4810-ad0a-43fd32b40549,castellano.bid,premium,437.5,,medium,low,10,name.com,,,
 2f45d502-2578-4e54-ae79-5d783df52ce0,forever.bid,premium,12500,,high,medium,7,name.com,,,
@@ -413,10 +411,10 @@ cd1875a2-aabb-4a0d-bba8-e5c756c978d6,terzetto.bid,premium,437.5,62.5,medium,low,
 b6929aee-4573-4d8b-970a-ac68ac55397f,pitted.bid,available,5.25,6.25,medium,low,6,namesilo,,,
 55323a9e-3fbe-4f50-880c-ec7a6bc52daf,luxury.bid,resell,,,high,low,6,West263 International Limited,29/07/2019 12:28,29/07/2028 12:28,
 546e748f-8025-4f51-b80f-b7bb2af9c6ce,brush.bid,premium,116,29.5,high,low,5,namesilo,,,
-a2e54f60-1e1a-4b92-b420-e8c822368ff5,nothing.bid,premium,1300,130,high,low,7,namecheap,,,24/09/2026 18:24
+a2e54f60-1e1a-4b92-b420-e8c822368ff5,nothing.bid,premium,1107,116,high,low,7,namesilo,,,25/09/2026 23:27
 1fe392ae-e65a-47e3-b134-aa5179f33fac,seen.bid,premium,437.5,,high,low,4,name.com,,,
 1ebefe22-4d25-433f-a34c-a7630b77d841,determine.bid,premium,437.5,,high,low,9,name.com,,,
-a3f54561-1ed8-4a0a-9de8-4d787a2421fe,mere.bid,premium,437.5,,high,low,4,name.com,,,
+a3f54561-1ed8-4a0a-9de8-4d787a2421fe,mere.bid,premium,455,65,high,low,4,namecheap,,,25/09/2026 19:33
 275cd90b-0bb0-490e-ad08-71b8dbf75403,lions.bid,premium,437.5,,high,low,5,name.com,,,
 727adda5-43da-4b33-9d44-0a77a4df6311,impulse.bid,premium,12500,,high,low,7,name.com,,,
 c1ded6ee-7633-4bd3-a6a6-462399f52dbe,thanks.bid,premium,6250,,high,low,6,name.com,,,
@@ -435,10 +433,10 @@ de8aa4d7-f143-435f-9f29-cb6585496a21,attached.bid,available,5.25,6.25,high,low,8
 c285bfd3-7754-42ef-8fb9-e0aa537c18c0,lacking.bid,available,5.25,6.25,high,low,7,namesilo,,,
 d851b78a-baaa-40c8-ba11-2bff2784fc09,shift.bid,resell,,,high,medium,5,Porkbun,13/09/2021 10:13,13/09/2026 10:13,
 46c51880-5aac-4c95-b845-c17138bd132c,purposes.bid,premium,625,,medium,low,8,name.com,,,
-6e55192c-472e-4018-895f-21345bb4b68d,trolling.bid,available,5.25,6.25,high,low,8,namesilo,,,
+6e55192c-472e-4018-895f-21345bb4b68d,trolling.bid,available,5.25,6.25,medium,low,8,namesilo,,,
 480afccc-05e0-4b79-af1c-c1841d52bbd8,madrid.bid,available,5.25,6.25,high,low,6,namesilo,,,
 2591eb99-48bc-4df8-a106-650dc00ff754,desktop.bid,available,5.25,6.25,high,low,7,namesilo,,,
-15bc69c0-bb51-4ea0-abdd-09795ad0e3c3,retracted.bid,available,9.98,,high,low,9,namecheap,,,
+15bc69c0-bb51-4ea0-abdd-09795ad0e3c3,retracted.bid,available,9.98,,medium,low,9,namecheap,,,
 6848dfcd-eb2b-4f90-9dba-bf9957604572,accentual.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 df881e9c-6531-4f81-a3ec-6f608a93100a,commend.bid,premium,437.5,,high,low,7,name.com,,,
 0070d771-b855-4a37-9369-c7b142641100,abide.bid,premium,455,65,high,low,5,namecheap,,,
@@ -451,7 +449,7 @@ e98ec1ca-4a75-4c73-8dc0-e42274113fc8,anorectal.bid,available,5.25,6.25,medium,lo
 c6eb4a07-e4a0-45ff-866c-8f7875040192,deviant.bid,premium,437.5,62.5,high,low,7,name.com,,,
 feab9863-e6a3-4958-bf50-06ae20bb56a2,covering.bid,available,5.25,6.25,high,low,8,namesilo,,,
 11c78764-ed90-4ad3-b24c-acf45b5129d1,bath.bid,premium,3125,,high,low,4,name.com,,,
-6dbbd46d-68a5-4ae4-8ddd-46b490368313,inverted.bid,premium,437.5,62.5,high,low,8,name.com,,,
+6dbbd46d-68a5-4ae4-8ddd-46b490368313,inverted.bid,premium,437.5,62.5,medium,low,8,name.com,,,
 8c81fe12-34a3-43e6-be6e-9774da671b2b,auxiliary.bid,premium,437.5,62.5,high,low,9,name.com,,,
 00cfeed4-bd6b-46d2-b912-20d17824d01b,encouraging.bid,available,5.25,6.25,high,low,11,namesilo,,,
 54e94a29-e7c5-4bf9-9529-0032853ceb9c,whom.bid,premium,437.5,,medium,low,4,name.com,,,
@@ -463,7 +461,7 @@ c3d8a7a4-4b20-468d-a79f-1636c7cf175f,pita.bid,premium,437.5,,high,low,4,name.com
 3449a016-bf57-484c-8031-732ddceb436c,rudimentary.bid,available,5.25,6.25,high,low,11,namesilo,,,
 0e8f213b-0c9a-4470-8b75-b699afcb8e54,peeled.bid,available,5.25,6.25,medium,low,6,namesilo,,,08/08/2026 18:24
 7e3f361a-eef6-4ca0-8fbf-6a2bd6e6e45f,devour.bid,premium,437.5,,high,low,6,name.com,,,
-afe1c718-70e4-4c3f-ab53-7859bb9679d9,intrinsic.bid,premium,437.5,,high,low,9,name.com,,,
+afe1c718-70e4-4c3f-ab53-7859bb9679d9,intrinsic.bid,premium,455,65,high,low,9,namecheap,,,25/09/2026 10:55
 420b46d5-7432-424a-8962-bde093bcc924,reading.bid,premium,625,,high,low,7,name.com,,,
 faa68a42-49fa-436c-b152-839c90878d60,axile.bid,available,5.25,6.25,medium,low,5,namesilo,,,08/08/2026 01:56
 df484be8-48ed-4e0f-9260-3230ec7c0fe2,asiatic.bid,available,5.25,6.25,medium,low,7,namesilo,,,07/08/2026 02:29
@@ -472,13 +470,14 @@ de0f2133-4282-42b6-a46c-87e886a6f4ce,advocate.bid,premium,625,,high,low,8,name.c
 7b325fbf-eb97-433a-9177-d5e9472c385c,arboreous.bid,available,5.25,6.25,medium,low,9,namesilo,,,06/08/2026 12:59
 9b598b2a-7f7d-493f-ac8a-56426939dd0a,lettuce.bid,premium,625,,high,low,7,name.com,,,
 550d92ba-47d0-42a8-b68e-1b264abb99e8,hero.bid,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",06/09/2017 06:35,06/09/2028 06:35,
+aba7c6a0-1bff-422d-88ea-16b29b5cb5f0,staff.bid,premium,1107,116,high,low,5,namesilo,,,25/09/2026 22:20
 4ebe3ade-6a77-4914-ae31-41d3d63a69bc,kgb.bid,premium,625,,high,low,3,name.com,,,
 91cfa000-586e-41e4-995c-35fbedd8395d,loosely.bid,available,5.25,6.25,medium,low,7,namesilo,,,
 f8badb86-ca61-45ec-880e-e85c30e2de3c,indate.bid,available,5.25,6.25,medium,low,7,namesilo,,,
 8fb0e643-3b1f-458a-a985-6c78a8253fa4,marines.bid,premium,437.5,,high,low,7,name.com,,,
 0dea0b8a-b6d8-4948-bc66-7fe9b152ca1e,sup.bid,premium,625,,high,low,3,name.com,,,
 546d5f04-64cb-4262-956c-a13bfd867bbb,layer.bid,premium,116,29.5,high,low,5,namesilo,,,
-8471bb66-1a05-421b-8f09-56db937b9a48,antiquary.bid,available,5.98,9.98,high,low,9,namecheap,,,
+8471bb66-1a05-421b-8f09-56db937b9a48,antiquary.bid,available,5.98,9.98,medium,low,9,namecheap,,,
 8402e00e-0c60-427f-940c-659537e4b101,granddaughter.bid,available,5.25,6.25,high,low,13,namesilo,,,
 cdc26b14-8677-463a-945f-8a6b480e9b1c,therefore.bid,premium,437.5,,high,low,9,name.com,,,
 a029437a-f6a3-46f3-bff3-2b4da51c4678,agamic.bid,available,5.25,6.25,medium,low,6,namesilo,,,
@@ -489,21 +488,22 @@ c7b15606-cc66-479d-8ca6-699538bf13f3,ghostly.bid,premium,437.5,62.5,high,low,7,n
 aed39370-58be-4be7-8b86-913401d7f2ec,awry.bid,available,5.25,6.25,medium,low,4,namesilo,,,
 3e003d2d-c6f4-4e5d-adf6-c494c88367cc,rage.bid,premium,437.5,,high,low,4,name.com,,,
 fa7454a2-9dac-4eab-aa5a-e95857104107,cowboy.bid,premium,437.5,,high,low,6,name.com,,,
-7456aced-cbb9-4d3c-bbd2-c7b1f9bae758,xlii.bid,available,5.25,6.25,high,low,4,namesilo,,,
+7456aced-cbb9-4d3c-bbd2-c7b1f9bae758,xlii.bid,available,5.25,6.25,medium,low,4,namesilo,,,
 c0ca2a6c-8c95-4af2-897a-d92b7ee86bf6,pain.bid,premium,1107,116,high,low,4,namesilo,,,
 7cb91ace-e8a3-448c-982b-b4756f0761f2,tradition.bid,premium,1107,116,high,low,9,namesilo,,,
+7c6e2d23-e681-4f99-8017-07a4d9a7fa78,engineering.bid,resell,,,high,low,11,"Global Domains International, Inc. DBA DomainCostClub.com",06/09/2017 07:25,06/09/2028 07:25,25/09/2026 15:11
 a2a75f1d-b8ac-4d75-9635-89be65b815b8,aquiline.bid,premium,437.5,62.5,medium,low,8,name.com,,,06/08/2026 11:01
-28688939-7b4a-4f2d-b323-9751a1854933,cxlv.bid,available,5.25,6.25,high,low,4,namesilo,,,
+28688939-7b4a-4f2d-b323-9751a1854933,cxlv.bid,available,5.25,6.25,medium,low,4,namesilo,,,
 74cc9d67-2482-472c-97ab-70fdeaeaa35a,playacting.bid,available,5.98,9.98,medium,low,10,namecheap,,,
 cfcc09dc-1996-4d6f-819e-99faff0ff34c,gregor.bid,available,5.25,6.25,high,low,6,namesilo,,,
 fb773c06-106b-48c5-896a-bd8ae87b6161,ranking.bid,premium,437.5,,high,low,7,name.com,,,
 bc626cd9-438f-42fa-84f5-12edebe0b76e,sensitive.bid,premium,3125,,high,low,9,name.com,,,
 62178b63-3d7a-4e0e-b192-b88bcda9aa3d,caustic.bid,available,5.25,6.25,medium,low,7,namesilo,,,
 8e6a9a26-7606-409c-9e28-907f3f2e404f,february.bid,available,5.25,6.25,high,low,8,namesilo,,,
-80a93e07-f68a-4d15-be54-6bed158109a3,describe.bid,premium,437.5,,high,low,8,name.com,,,
+80a93e07-f68a-4d15-be54-6bed158109a3,describe.bid,premium,448,53.92,high,low,8,namesilo,,,25/09/2026 12:37
 1e3edddb-68a3-4bec-8d36-d3c524515bad,creatively.bid,available,9.98,,high,low,10,namecheap,,,
 3cf8d09e-a0ca-4dca-ba4b-356d436f10d5,bacon.bid,premium,437.5,,high,low,5,name.com,,,
-bc631774-1dc8-4e79-bbfc-892c89124cd2,lucrative.bid,premium,437.5,,high,low,9,name.com,,,
+bc631774-1dc8-4e79-bbfc-892c89124cd2,lucrative.bid,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 15:34
 0b3b86fb-9ec7-45c2-bb6c-0e67bb5222b9,courses.bid,premium,650,84.5,high,low,7,namecheap,,,
 3267a9ca-100a-4dcc-89c1-685937d4c26d,portable.bid,resell,,,high,low,8,Key-Systems LLC,11/01/2018 03:28,11/01/2027 03:28,
 5dfd2244-a71b-45ab-94fa-574547bf5c42,prohibited.bid,premium,437.5,62.5,medium,low,10,name.com,,,08/08/2026 13:48
@@ -520,7 +520,7 @@ d0a014a6-ca0e-4a40-bc31-635903e0fc1b,canoe.bid,premium,437.5,,high,low,5,name.co
 c2b2a424-1541-4093-af10-7a0052aa8d33,sloth.bid,premium,437.5,,high,low,5,name.com,,,
 315ae62f-b2dd-4922-9eb4-f2d5b07b2011,fist.bid,premium,437.5,,high,low,4,name.com,,,
 5f27d3e7-ed8a-40cf-8e3b-0239db32693c,southern.bid,available,5.25,6.25,high,low,8,namesilo,,,
-c81b1859-e8d5-4497-a9f2-5864ec2baa1e,freaking.bid,available,5.25,6.25,high,low,8,namesilo,,,
+c81b1859-e8d5-4497-a9f2-5864ec2baa1e,freaking.bid,available,5.25,6.25,medium,low,8,namesilo,,,
 ccc28797-e5f4-4241-a5cd-358474ea43fd,abridged.bid,available,5.25,6.25,high,low,8,namesilo,,,
 2725180e-005f-4af8-84d1-d9e7fd4d0d3c,acinar.bid,available,5.25,6.25,medium,low,6,namesilo,,,
 085881b9-c3f2-4fa5-a151-851ee4eece40,proficiency.bid,premium,437.5,,high,low,11,name.com,,,
@@ -532,19 +532,17 @@ a94d5a2e-771f-4034-b2e0-5b0fe389b5b7,duck.bid,premium,1107,116,high,low,4,namesi
 13066648-332e-4bd3-ac75-523ed8f449cd,shifting.bid,available,5.25,6.25,high,low,8,namesilo,,,
 fa3f1bde-fc06-4e75-a1b7-dfdb72494957,frame.bid,premium,116,29.5,high,low,5,namesilo,,,
 39e18984-c586-4869-a87a-82cc754456c4,pretending.bid,available,5.25,6.25,high,low,10,namesilo,,,
-bd5b707b-4ff7-4b90-8f51-afa3235d9b22,reflection.bid,premium,1107,116,high,low,10,namesilo,,,
-4b668881-4fa2-499d-af4a-76be7b1b8ad1,person.bid,premium,625,,high,low,6,name.com,,,
+bd5b707b-4ff7-4b90-8f51-afa3235d9b22,reflection.bid,premium,1107,116,high,low,10,namesilo,,,25/09/2026 22:24
 e0749e5d-df2e-4f37-9c62-25188d928dfe,king.bid,resell,,,high,medium,4,Dynadot Inc,26/07/2019 15:58,26/07/2027 15:58,20/09/2026 00:35
 02b46d79-3d14-4e07-84a6-273040f8cabe,austral.bid,premium,437.5,62.5,medium,low,7,name.com,,,07/08/2026 18:26
 b1930b59-b5fd-4a1a-97bf-8e85c51e1282,patrician.bid,premium,437.5,62.5,medium,low,9,name.com,,,06/08/2026 19:34
 a10522f4-1234-45e5-ae63-deec02cf23cc,mom.bid,premium,625,,high,low,3,name.com,,,
-5b46312a-051e-4be6-b174-fedb81761d25,variety.bid,premium,6250,,high,low,7,name.com,,,
+5b46312a-051e-4be6-b174-fedb81761d25,variety.bid,premium,6900,116,high,low,7,namesilo,,,25/09/2026 12:52
 1a743473-eade-408a-bdd9-8364ed5f4994,erase.bid,premium,437.5,,high,low,5,name.com,,,
 a4970cfc-bb7c-4955-84a8-5b3cb5102676,stood.bid,available,5.25,6.25,medium,low,5,namesilo,,,
 1a92986e-5493-4995-9c22-9a52572839be,grilled.bid,premium,437.5,62.5,high,low,7,name.com,,,08/08/2026 16:31
 a0c09219-a8ea-44d6-a150-65af6e1b2357,interpersonal.bid,available,5.25,6.25,high,low,13,namesilo,,,
 46cdf021-1553-4ee1-92b5-84ab3cf175c4,mouthcare.bid,available,9.98,,medium,low,9,namecheap,,,
-7ff35152-9251-46bf-b41b-b81122e1e810,chemistry.bid,premium,625,,high,low,9,name.com,,,
 60587879-9bf5-41bc-ae6d-c1e3167b0d81,quieter.bid,available,5.25,6.25,high,low,7,namesilo,,,
 d7603bc6-64f3-4aa3-9b8d-4d92e7d146f0,group.bid,resell,,,high,low,5,"Chengdu West Dimension Digital Technology Co., Ltd.",02/09/2016 17:26,01/09/2027 23:59,
 4a688593-d6cf-4c26-839c-9e670bb83af3,invite.bid,available,5.25,6.25,high,low,6,namesilo,,,
@@ -566,9 +564,9 @@ c748b0b0-7370-4882-9c55-afc2ffc80ac2,departure.bid,premium,1107,116,high,low,9,n
 108e6c1d-3b82-48e6-a0c4-9704310cc38f,cows.bid,available,9.98,,high,low,4,namecheap,,,
 100e03e5-d147-4a84-8db7-de9f32268335,autolytic.bid,available,5.25,6.25,medium,low,9,namesilo,,,07/08/2026 20:42
 e6491da6-3b45-45c5-80a2-f2ff9b1eefde,toast.bid,premium,437.5,,high,low,5,name.com,,,
-e41c62be-c956-4fa2-8ffd-71c97df90106,loved.bid,premium,437.5,,high,low,5,name.com,,,
+e41c62be-c956-4fa2-8ffd-71c97df90106,loved.bid,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 14:27
 050473b0-ee72-4f79-9bb6-d04129162d8a,addition.bid,premium,625,,high,low,8,name.com,,,
-553affa6-a1d2-41ac-aeec-8248a8f44d06,left.bid,premium,437.5,,high,low,4,name.com,,,
+553affa6-a1d2-41ac-aeec-8248a8f44d06,left.bid,premium,448,53.92,high,low,4,namesilo,,,25/09/2026 13:25
 b134bb7b-ac48-40b0-9d11-b8d6b81651f8,propose.bid,premium,437.5,,high,low,7,name.com,,,
 bd0aff96-23ed-430a-94c0-3494f1b46378,maintain.bid,premium,437.5,,high,low,8,name.com,,,
 f3de46b5-dffe-432b-88b2-016b9f19e453,overhang.bid,available,5.25,6.25,medium,low,8,namesilo,,,09/08/2026 08:28
@@ -586,7 +584,8 @@ fb540d45-8d1e-4db5-9834-2dbf0fdb4cdb,biting.bid,available,5.25,6.25,high,low,6,n
 5da2e201-2830-431e-9ec2-aa358a6b4f28,marvel.bid,premium,437.5,,high,low,6,name.com,,,
 ff5bfd8e-55a1-4a1d-87a1-7fb399195e17,monitor.bid,resell,,,high,low,7,Dynadot Inc,27/03/2021 11:57,27/03/2027 11:57,
 9cb4abce-e8ea-4f7b-bc4a-5fde381476ed,attract.bid,premium,437.5,,high,low,7,name.com,,,
-6c41b6f2-658c-46e8-9c07-04d7425b99a9,restrain.bid,premium,437.5,,high,low,8,name.com,,,
+959ad154-a03b-412a-a65f-f1489a32e4ec,healthcare.bid,resell,,,high,low,10,"NameSilo, LLC",13/08/2019 13:59,13/08/2027 13:59,25/09/2026 14:49
+6c41b6f2-658c-46e8-9c07-04d7425b99a9,restrain.bid,premium,437.5,,medium,low,8,name.com,,,
 22abd064-0657-40ec-be0a-cc76273ea4d9,personally.bid,premium,437.5,,high,low,10,name.com,,,
 405dab29-e5a4-41de-9a34-11a87e185084,wannabee.bid,available,5.25,6.25,medium,low,8,namesilo,,,07/08/2026 05:22
 34db6ac6-90b5-4e46-95cd-4a972b8d4353,atilt.bid,available,5.25,6.25,medium,low,5,namesilo,,,07/08/2026 13:13
@@ -594,7 +593,7 @@ ff5bfd8e-55a1-4a1d-87a1-7fb399195e17,monitor.bid,resell,,,high,low,7,Dynadot Inc
 741ac373-395c-4740-b37b-2218541e7da4,sandwich.bid,premium,1107,116,high,low,8,namesilo,,,
 b8bd72d2-19ea-4862-a053-24cf1b3a62ac,arterial.bid,available,5.25,6.25,high,low,8,namesilo,,,06/08/2026 22:29
 c4ed4448-a646-4c23-95a3-21a30b253458,kindness.bid,available,5.25,6.25,high,low,8,namesilo,,,
-4c546806-9bad-40b2-a882-2acd62ef18ce,masculine.bid,premium,437.5,,high,low,9,name.com,,,
+4c546806-9bad-40b2-a882-2acd62ef18ce,masculine.bid,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 17:05
 a659fd51-3a5c-4978-a590-cd6f759ab682,vent.bid,premium,437.5,,high,low,4,name.com,,,
 8fdc7f7f-15c2-4379-bbb5-3d7c66a60b57,prosecution.bid,available,9.98,,high,low,11,namecheap,,,
 4420e090-e386-4b1f-a221-67a6e2151916,result.bid,premium,625,,high,low,6,name.com,,,
@@ -602,7 +601,7 @@ a659fd51-3a5c-4978-a590-cd6f759ab682,vent.bid,premium,437.5,,high,low,4,name.com
 3973fb4e-4aee-4a51-98e2-366a56496a2c,unique.bid,resell,,,high,medium,6,Dynadot Inc,26/08/2021 11:53,26/08/2027 11:53,22/09/2026 14:07
 6d4d6dce-33f1-4352-bd38-a42688b73280,cat.bid,available,,,high,low,3,,,,
 64ca3e7b-0e1a-4ac1-a154-af9d72189b61,household.bid,premium,437.5,,high,low,9,name.com,,,
-68fb7d04-d683-4c81-9280-da60a29c3b13,inviting.bid,available,5.25,6.25,high,low,8,namesilo,,,
+68fb7d04-d683-4c81-9280-da60a29c3b13,inviting.bid,available,5.25,6.25,high,low,8,namesilo,,,25/09/2026 11:14
 a55a3e9e-77be-4514-af46-52a225b80c87,obviously.bid,premium,437.5,,high,low,9,name.com,,,
 d823eba4-aa98-49a8-9c76-6b7ac67099c0,moment.bid,available,5.25,6.25,high,low,6,namesilo,,,
 ded208aa-0a25-40b2-90ba-e76a253bcc18,lying.bid,available,5.25,6.25,high,low,5,namesilo,,,
@@ -620,7 +619,6 @@ f55d2d33-2b98-49c1-9aad-70fdceb9781d,lap.bid,premium,625,,high,low,3,name.com,,,
 6d181f39-7351-4a5b-a9fd-b2dd1a22780e,posterior.bid,available,5.25,6.25,medium,low,9,namesilo,,,09/08/2026 11:12
 6765d38d-cf7d-4674-9a54-0f9902aa70f1,services.bid,premium,3250,130,high,low,8,namecheap,,,
 4a70efd1-e192-4eab-b842-d9678f039f07,punishing.bid,available,5.25,6.25,high,low,9,namesilo,,,06/08/2026 17:10
-ca0b714b-1afd-4d40-8d34-dea272d22c77,interested.bid,available,5.25,6.25,high,low,10,namesilo,,,
 b08d4899-5c29-4e06-9ad5-80dbb32f3bf7,criticize.bid,available,5.25,6.25,high,low,9,namesilo,,,
 201887da-1e8c-4734-a8ae-0396d393e6b6,boxers.bid,available,9.98,,high,low,6,namecheap,,,
 9fc03b16-cde3-4c30-99cd-9f89e3c2ed3a,state.bid,premium,3125,,high,medium,5,name.com,,,
@@ -641,7 +639,6 @@ b1cefef8-c269-4f0c-9b0f-dbbbb746bd96,affectionate.bid,available,9.98,,high,low,1
 cf3fc619-af82-4832-8833-bf77c16ffe34,chore.bid,available,5.25,6.25,high,low,5,namesilo,,,
 0ee77dd0-70b6-45da-ade8-70bc161422c8,abkhaz.bid,available,5.25,6.25,high,low,6,namesilo,,,
 c8308547-df44-4efb-bcae-5edddc274435,afflicted.bid,available,5.25,6.25,high,low,9,namesilo,,,
-7b5dae26-5414-4e99-8a87-e7a8c74c342d,human.bid,premium,3125,,high,medium,5,name.com,,,
 259318c4-9636-4168-ba49-2bf062f3fb31,styptic.bid,available,5.25,6.25,medium,low,7,namesilo,,,07/08/2026 10:00
 b3abaa0b-e8a3-4686-b549-f5a6a4e8905c,visibility.bid,premium,437.5,,high,low,10,name.com,,,
 52bedcff-222b-4c84-b9ad-d2c8c7a01be3,brightness.bid,available,9.98,,high,low,10,namecheap,,,
@@ -676,8 +673,10 @@ ae22bdc1-bc80-4618-b56b-3cd3ad93ba3b,acerbic.bid,available,5.25,6.25,medium,low,
 67aa07b4-2652-4b75-b592-2c179f812dff,cosmos.bid,premium,437.5,,high,low,6,name.com,,,
 341e8f7c-bef7-4b21-923c-4f536328dfd4,technique.bid,premium,437.5,,high,low,9,name.com,,,
 6739af06-3c16-4dc1-af29-12c9359c5bb9,lockbox.bid,premium,437.5,,high,low,7,name.com,,,
+eb0200fc-6130-44b3-9bdf-0a87ad1b6204,vodka.bid,available,5.25,6.25,high,low,5,namesilo,,,25/09/2026 15:15
 4efd86e4-fd9a-46fb-bb54-dfb89891dd2a,scowling.bid,available,5.25,6.25,medium,low,8,namesilo,,,09/08/2026 08:33
 4b051cac-4634-479b-b68a-987f9b8f7620,siberian.bid,premium,437.5,,high,low,8,name.com,,,
+d52f9618-a7c5-4d1c-9d99-bac9ba5c32c9,television.bid,available,5.25,6.25,high,low,10,namesilo,,,25/09/2026 22:50
 9616eee5-1de4-4464-9338-c861f24911fa,cheeses.bid,available,5.25,6.25,high,low,7,namesilo,,,
 83d1945d-8e27-471e-bf00-837e3749b912,rail.bid,resell,,,high,low,4,"NameCheap, Inc.",01/01/2017 21:22,31/12/2028 23:59,
 66015656-6e06-431e-ba4b-9ccdf109b21c,tesla.bid,available,5.25,6.25,high,medium,5,namesilo,,,
@@ -687,19 +686,18 @@ bbf3993e-97d5-4ac3-8882-6ec42f45b670,spirits.bid,available,9.98,,high,low,7,name
 07b5ec77-ba3f-48e5-839e-716b9c76da76,developer.bid,premium,437.5,,high,low,9,name.com,,,
 a1ea5033-48ec-4fd7-a268-6cf131f8bf39,valueable.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 56affb17-cb2f-44c5-93b6-7b95a4563c20,annulate.bid,available,5.25,6.25,high,low,8,namesilo,,,
-7bab5165-be9e-494e-ac6c-4938b4cc4846,married.bid,available,5.25,6.25,high,low,7,namesilo,,,
 1ac2fd8b-81a0-4c44-9f49-354e0029a4a3,verify.bid,premium,437.5,,high,medium,6,name.com,,,
 effa392d-1232-4fa7-aa4f-b48e19d56233,aberrant.bid,premium,437.5,62.5,high,low,8,name.com,,,
 ef4ff53f-84f2-44eb-b7d4-f85a1568ff62,allow.bid,premium,437.5,62.5,high,low,5,name.com,,,06/08/2026 09:03
-c5116005-78a9-42e9-8f3e-f59474e184f8,aramaic.bid,available,5.25,6.25,high,low,7,namesilo,,,06/08/2026 12:13
+c5116005-78a9-42e9-8f3e-f59474e184f8,aramaic.bid,available,5.25,6.25,medium,low,7,namesilo,,,06/08/2026 12:13
 9e707889-ec8f-4eb1-9821-4270aae28ea6,breathtaking.bid,premium,437.5,,high,low,12,name.com,,,
 08e09012-a4d9-458c-801e-2e5a330dbe69,pharmacist.bid,available,9.98,,high,low,10,namecheap,,,
 3937e4bc-9adc-48cf-8abd-ed475e8e0e47,exaggerate.bid,premium,437.5,,high,low,10,name.com,,,
 e4d63f5b-c718-42d6-b6d0-0b4a31c39ee6,acerate.bid,available,5.25,6.25,medium,low,7,namesilo,,,
-40c0ba3d-650e-4a30-9470-0789012c3b41,meddle.bid,premium,437.5,,high,low,6,name.com,,,
+40c0ba3d-650e-4a30-9470-0789012c3b41,meddle.bid,premium,437.5,,medium,low,6,name.com,,,
 ccddd1cc-048e-4b30-9e5f-5288611d1259,victor.bid,premium,437.5,,high,medium,6,name.com,,,
 78db1033-a7a6-4a64-aa0d-c5083d84922f,laborer.bid,premium,1107,116,high,low,7,namesilo,,,
-a69944ca-34de-47e6-9450-63ca2453e1dc,invariably.bid,available,5.25,6.25,high,low,10,namesilo,,,
+a69944ca-34de-47e6-9450-63ca2453e1dc,invariably.bid,available,5.25,6.25,medium,low,10,namesilo,,,
 280b7628-0d71-4b12-a7cc-7f3f5f63e2a8,stripling.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 d8ffae21-cd9e-490c-bf8e-3cf682e2d9a2,flush.bid,premium,437.5,62.5,high,low,5,name.com,,,
 940edb7e-970a-4a76-80ca-a81bd44e7522,coruscant.bid,available,5.25,6.25,medium,low,9,namesilo,,,
@@ -710,7 +708,6 @@ d2043f93-460d-4c47-a484-d76aae041e01,laptop.bid,available,5.25,6.25,high,low,6,n
 c474646d-551a-498b-bd4a-7a87947b0536,pass.bid,premium,3125,,high,low,4,name.com,,,
 83ce2020-7b19-4aff-8c1b-3a73c136a71f,vanquish.bid,premium,437.5,62.5,high,low,8,name.com,,,09/08/2026 05:32
 98d0facb-d026-49fa-914e-0ee93db016f5,grew.bid,available,5.25,6.25,high,low,4,namesilo,,,
-70eb403d-aa67-4fff-929c-362b4c1a6127,hybrid.bid,available,5.25,6.25,high,low,6,namesilo,,,
 1ecc8904-2a6c-4bda-80ba-69ed73bf2769,invent.bid,premium,437.5,,high,low,6,name.com,,,
 465579ae-4d8f-4988-a3bc-0c4e2dfbb1a9,resignation.bid,available,9.98,,high,low,11,namecheap,,,
 648a19b0-695e-4fbd-99dd-2c1259ae59ee,postoffice.bid,premium,437.5,,high,low,11,name.com,,,
@@ -729,17 +726,17 @@ c75520ca-1d0e-4bc3-9a58-8f397fae5c33,corking.bid,available,5.25,6.25,high,low,7,
 540a6662-ca33-4426-8b02-0edbdf0b2c47,dji.bid,premium,625,,high,low,3,name.com,,,
 a0ac77cb-ed44-480d-b802-ca29ef524e7a,vexation.bid,available,5.25,6.25,medium,low,8,namesilo,,,
 d3a38872-b611-46a3-aed8-4ad28be8bab9,monitory.bid,available,5.25,6.25,medium,low,8,namesilo,,,
-b35ef336-88f7-4043-8b03-31b45ff86368,revolved.bid,available,9.98,,high,low,8,namecheap,,,
+b35ef336-88f7-4043-8b03-31b45ff86368,revolved.bid,available,9.98,,medium,low,8,namecheap,,,
 575851af-c7d6-481e-a607-c42bfc58d08f,baggage.bid,premium,437.5,,high,low,7,name.com,,,
 14ab0f59-c234-4450-acf1-1f7fe5e18ed4,returned.bid,available,5.25,6.25,high,low,8,namesilo,,,
 b70173b9-2613-4bbf-baf7-ff59f2c1bf8a,prototypic.bid,available,5.25,6.25,medium,low,10,namesilo,,,06/08/2026 15:42
 02bafe5e-5d34-4026-8d0e-7e881803eaa5,awareness.bid,premium,116,29.5,high,low,9,namesilo,,,
 b6855677-e353-461d-94e4-bb8512946914,antiviral.bid,available,5.98,9.98,high,low,9,namecheap,,,05/08/2026 20:06
-11efd78c-7c5c-45ed-b89c-9edd84d57120,but.bid,premium,625,,high,low,3,name.com,,,
-852270fb-359d-418e-9c13-94bc2d2f4308,listed.bid,premium,437.5,,high,low,6,name.com,,,
+11efd78c-7c5c-45ed-b89c-9edd84d57120,but.bid,premium,650,84.5,high,low,3,namecheap,,,25/09/2026 12:23
+852270fb-359d-418e-9c13-94bc2d2f4308,listed.bid,premium,455,65,high,low,6,namecheap,,,25/09/2026 13:56
 009da27c-d16b-424f-a6f0-124984db9193,objectively.bid,available,5.25,6.25,high,low,11,namesilo,,,
+7bb1a31e-b602-42b8-afed-d9f8a7f75ea2,digital.bid,resell,,,high,medium,7,Dynadot Inc,26/07/2019 14:50,26/07/2027 14:50,25/09/2026 22:21
 9da20ad2-a448-46a4-af9e-0aeb46c927d1,mister.bid,premium,437.5,,high,low,6,name.com,,,
-0340b73a-65a8-47db-a040-7ea47ebeaa42,initial.bid,premium,3125,,high,low,7,name.com,,,
 616e22e7-c946-4ede-87c6-0390df55ec53,captive.bid,premium,437.5,62.5,high,low,7,name.com,,,
 bb9bffd8-496c-4def-9e58-436865ef6693,creating.bid,available,5.25,6.25,high,low,8,namesilo,,,
 79485cea-f793-4721-9c17-5378a8470056,arched.bid,available,5.25,6.25,medium,low,6,namesilo,,,06/08/2026 14:34
@@ -774,6 +771,7 @@ e984997b-0561-4980-8867-9a7eea2e8bc6,want.bid,available,9.98,,high,low,4,nameche
 1352d977-c3e1-47b2-af74-1a35aedcd929,polo.bid,available,,,high,low,4,,,,
 57fef0de-35ff-488f-88ea-ddc357b8f563,brotherhood.bid,premium,437.5,,high,low,11,name.com,,,
 78f1f4b9-295a-40e7-814d-4ed04881ab09,police.bid,available,5.25,6.25,high,low,6,namesilo,,,
+992e73db-8da8-4b27-8d96-8c5f97a52542,guess.bid,premium,448,53.92,high,high,5,namesilo,,,25/09/2026 14:44
 bff37e88-374d-4f1c-93ce-b1c1d96dc440,grungy.bid,premium,437.5,62.5,low,low,6,name.com,,,09/08/2026 09:36
 cbab05f7-211e-4f34-b871-c7a02e978166,modeller.bid,available,9.98,,high,low,8,namecheap,,,
 eace1ec1-9886-428e-9cfe-be24ea35eebf,auxetic.bid,available,5.25,6.25,medium,low,7,namesilo,,,07/08/2026 21:28
@@ -781,7 +779,7 @@ eace1ec1-9886-428e-9cfe-be24ea35eebf,auxetic.bid,available,5.25,6.25,medium,low,
 a7d6961b-f2c7-48f9-93e9-a82a0b146d89,own.bid,available,,,high,low,3,,,,
 80fb8361-5b1b-4f2d-9507-244edc7b19c3,tierce.bid,available,5.25,6.25,medium,low,6,namesilo,,,
 6c9dcbd2-3426-4cac-b55e-12ef5a10510a,thorpe.bid,available,5.25,6.25,high,low,6,namesilo,,,
-86b9a13f-d5bb-4d29-a4f6-d54e75db79ff,achy.bid,available,5.25,6.25,high,low,4,namesilo,,,
+86b9a13f-d5bb-4d29-a4f6-d54e75db79ff,achy.bid,available,5.25,6.25,medium,low,4,namesilo,,,
 782f1027-5b90-4115-8412-16c2d563f523,distance.bid,premium,1107,116,high,low,8,namesilo,,,
 8dc6bc5c-61ae-476c-bf5a-081ad47c8ea8,diversity.bid,premium,625,,high,low,9,name.com,,,
 dacec631-4d14-4013-98e1-63c5506ac1c7,shaft.bid,premium,437.5,,high,low,5,name.com,,,
@@ -792,7 +790,7 @@ e62581ab-9582-4276-b418-e757b6d653ac,beginning.bid,available,5.25,6.25,high,low,
 a292d6cb-9f3c-4ea4-9686-dc8db3796e83,damascus.bid,available,5.25,6.25,high,low,8,namesilo,,,
 0d11b7fa-1186-4202-800f-ed917c111244,ane.bid,premium,625,81.25,high,low,3,name.com,,,
 7aa72c92-60b7-48fc-9947-f7e3aa3fc172,anglican.bid,available,,,high,low,8,,,,
-bf8e4b87-2fe2-4353-b15b-3e2571cbc62c,justified.bid,premium,437.5,,high,low,9,name.com,,,
+bf8e4b87-2fe2-4353-b15b-3e2571cbc62c,justified.bid,premium,448,53.92,high,low,9,namesilo,,,25/09/2026 12:26
 ae814ec6-5990-4b96-bc4b-5cb58cf34374,outcome.bid,premium,625,,high,low,7,name.com,,,
 69f55b0e-f122-45f9-b863-801214ba274a,evrything.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 5cb12b09-aa95-4d90-88f5-b0e2985bd494,lastly.bid,available,9.98,,medium,low,6,namecheap,,,
@@ -802,7 +800,7 @@ b3e6d572-d28e-4e7a-8d7a-84dbb18256f1,avionic.bid,available,5.25,6.25,medium,low,
 07defd5b-cff9-4663-939b-fe89d7721b67,optionally.bid,available,5.25,6.25,high,low,10,namesilo,,,
 167d0e7a-1ad5-4a96-ae06-8e83e1239410,details.bid,premium,1107,116,high,low,7,namesilo,,,
 a955ad02-0830-4921-9a88-96e2568f7fe0,highlighting.bid,available,5.25,6.25,high,low,12,namesilo,,,
-b86b8b59-e978-4901-a17e-63ee316b4bf1,most.bid,premium,1107,116,high,low,4,namesilo,,,
+b86b8b59-e978-4901-a17e-63ee316b4bf1,most.bid,premium,1107,116,high,low,4,namesilo,,,25/09/2026 21:48
 3defb317-9466-45b5-b278-eff786a43fc5,cot.bid,premium,625,,high,low,3,name.com,,,
 af5cc992-2484-4a7a-8f41-843ad43fedfc,oxfam.bid,premium,437.5,,high,low,5,name.com,,,
 e9e7e8d1-f345-4396-a08b-2d71b8e45462,passive.bid,premium,437.5,,high,low,7,name.com,,,
@@ -813,13 +811,13 @@ e59e2b9e-5a48-4a8d-95ae-092078b0b454,breakfast.bid,premium,1107,116,high,low,9,n
 c18d137a-ddb8-4f98-bf94-09d8287d1473,attitude.bid,premium,625,,high,low,8,name.com,,,
 e40e1ec3-666d-40ed-9001-cd9e03dabfe0,shove.bid,available,5.25,6.25,high,low,5,namesilo,,,
 18a9e34e-b4c1-42fe-8863-8314a0217878,endurable.bid,premium,437.5,62.5,medium,low,9,name.com,,,09/08/2026 04:33
-e2288ccf-459d-4eb4-893c-d7b4817ba8a4,squint.bid,premium,437.5,62.5,high,low,6,name.com,,,07/08/2026 03:15
+e2288ccf-459d-4eb4-893c-d7b4817ba8a4,squint.bid,premium,437.5,62.5,medium,low,6,name.com,,,07/08/2026 03:15
 8201cb86-cd9a-4046-b39b-66ba5a51f2b0,qualitative.bid,available,5.25,6.25,high,low,11,namesilo,,,
 b20aceab-31de-4de4-b4ab-65876c870a5a,affirm.bid,available,,,high,low,6,,,,
 19a43be2-bc29-42f0-9c96-6f937875dbb5,attempt.bid,premium,116,29.5,high,low,7,namesilo,,,
 8155c2b6-e3d9-4382-be2b-fa281b15456c,date.bid,resell,,,high,low,4,Dynadot Inc,26/07/2019 14:35,26/07/2027 14:35,20/09/2026 00:25
 2ce2e930-bf7e-4cf8-8c2f-c4a41b18e0fe,lust.bid,available,5.25,6.25,high,low,4,namesilo,,,
-ff7ff3a4-3adc-46ef-a3b3-6cfabf20719c,restructuring.bid,available,5.25,6.25,high,low,13,namesilo,,,
+ff7ff3a4-3adc-46ef-a3b3-6cfabf20719c,restructuring.bid,available,5.25,6.25,medium,low,13,namesilo,,,
 a2f4d127-bcaa-4c1e-ac0c-5dc3749abc54,grasping.bid,available,5.25,6.25,high,low,8,namesilo,,,07/08/2026 22:04
 a78344b1-265b-4d95-b37a-cf93ac9fbc53,politely.bid,available,9.98,,high,low,8,namecheap,,,
 5307a978-41e2-4eb0-83d4-1786e7ff6d04,standon.bid,available,5.25,6.25,medium,low,8,namesilo,,,
@@ -827,16 +825,14 @@ f5429951-0286-4a5a-84a0-0168becc6c4d,plaguey.bid,available,5.25,6.25,medium,low,
 0e6819a1-9474-464b-8276-657592f1cd76,description.bid,premium,1107,116,high,low,11,namesilo,,,
 dd7f4330-cc08-4eaa-9061-40097c766723,bomb.bid,premium,3125,,high,low,4,name.com,,,
 f8eb0666-7877-4dfc-a75e-26b46533410d,wander.bid,premium,437.5,,high,low,6,name.com,,,
-28ef9065-0ada-4e76-8eb3-92783c670901,beautiful.bid,resell,,,high,low,9,Dynadot Inc,01/11/2024 03:50,01/11/2026 03:50,08/09/2026 03:43
 b0a96ac6-745c-4e9f-8688-f50f08271b52,fact.bid,premium,625,,high,low,4,name.com,,,
-aeecbe12-0310-4afb-90f6-af477599e381,integrated.bid,available,5.25,6.25,high,low,10,namesilo,,,
 d15dcde0-3af5-4a3a-9ef9-5297e864b651,cent.bid,resell,,,high,low,4,Dynadot Inc,06/11/2024 03:41,06/11/2026 03:41,08/09/2026 08:07
 4cdc31ae-ff4e-4a29-ba0d-8715160a3b4a,really.bid,premium,437.5,,high,low,6,name.com,,,
 df1823fa-3b71-4d7a-8b84-9587f8e67860,assess.bid,premium,437.5,,high,low,6,name.com,,,
 d8e45fa0-d14c-4758-826b-a6e47d38bc4e,santa.bid,resell,,,high,low,5,"007Names, Inc.",19/09/2023 15:30,19/09/2028 15:30,
 4861f760-941f-4592-b149-ab2978f5ebb5,cairo.bid,available,5.25,6.25,high,low,5,namesilo,,,
 261289f3-1c96-4086-93f6-32b6d001a5e2,obey.bid,premium,437.5,,high,low,4,name.com,,,
-35de0113-823d-4ad9-89a2-3d734f9f4a4d,metre.bid,premium,437.5,,high,low,5,name.com,,,
+35de0113-823d-4ad9-89a2-3d734f9f4a4d,metre.bid,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 15:57
 6acef315-bb18-401d-b702-797ac2149ea0,bro.bid,premium,625,,high,low,3,name.com,,,
 e8963633-ca2f-4a6b-9067-6d6a8562e52b,whichever.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 2c980fdf-158e-4645-b1f3-64a4a15dd575,confide.bid,premium,437.5,,high,low,7,name.com,,,
@@ -844,7 +840,7 @@ a39f88c5-934e-4cf0-a001-c1df71e16454,covenant.bid,premium,437.5,,high,low,8,name
 cacc080c-3d02-4995-85d8-4ca1ec38ff9e,worse.bid,available,5.25,6.25,high,low,5,namesilo,,,
 9db5f15f-493c-4fa3-b7e2-9192f35b641f,volkswagen.bid,premium,437.5,,high,low,10,name.com,,,
 58aab6a9-12bb-4260-b7e4-6c268d77faad,barred.bid,available,5.25,6.25,medium,low,6,namesilo,,,08/08/2026 20:37
-e2f02feb-8b40-4f42-864c-7e7f1cb264bc,scarred.bid,premium,437.5,,medium,low,7,name.com,,,
+e2f02feb-8b40-4f42-864c-7e7f1cb264bc,scarred.bid,premium,448,53.92,medium,low,7,namesilo,,,25/09/2026 17:02
 62b3fd7a-e4e6-4c8d-a36c-254a272a7be5,generators.bid,resell,,,medium,low,10,"NameCheap, Inc.",19/03/2019 16:00,19/03/2030 16:00,
 e0bed71e-c69d-4701-85c6-080c78136b8f,playdate.bid,premium,437.5,,high,low,9,name.com,,,
 620dd695-fd8c-4bdc-b17e-a251a4779090,zend.bid,premium,437.5,62.5,medium,low,4,name.com,,,07/08/2026 23:12
@@ -856,13 +852,14 @@ e2f46f68-5858-42c8-ad2c-b4155d93d0bd,attend.bid,available,5.25,6.25,high,low,6,n
 7c6363a3-0d7a-4340-a0d3-9e627ac423e6,heck.bid,premium,437.5,,high,low,4,name.com,,,
 96d14b11-60f7-4556-b56b-814b8043b160,adipose.bid,available,5.25,6.25,high,low,7,namesilo,,,
 a307fc4e-eb9e-4b1e-b468-7d5cfb71f6ab,supper.bid,available,9.98,,high,low,6,namecheap,,,
-31f9fc61-b2ab-48d0-a559-0122036c91ac,marked.bid,premium,437.5,,high,low,6,name.com,,,
+31f9fc61-b2ab-48d0-a559-0122036c91ac,marked.bid,premium,448,53.92,high,low,6,namesilo,,,25/09/2026 16:50
 cfdbf459-473e-4e88-8899-f3e68806f0c4,sequent.bid,premium,437.5,62.5,high,low,7,name.com,,,
 4620e09c-2477-4f47-a72d-75be467705ce,watermelon.bid,premium,437.5,,high,low,10,name.com,,,
 36c9e97d-c74c-4b2e-ace7-fc888242d36f,classroom.bid,premium,116,29.5,high,low,9,namesilo,,,
 a8fbe2c9-de7f-4c5f-aa78-a251215d5f8f,apophatic.bid,available,5.25,6.25,medium,low,9,namesilo,,,06/08/2026 02:27
 f6fb6dd0-d85b-4976-ba6c-63bf0fc456a5,kilometer.bid,available,5.25,6.25,high,low,9,namesilo,,,
 f75811ac-4362-41c0-b123-c009dd868143,squinty.bid,available,5.25,6.25,medium,low,7,namesilo,,,07/08/2026 03:20
+595150e4-c68d-43a5-bc8f-6231edadd33c,political.bid,available,5.25,6.25,high,low,9,namesilo,,,25/09/2026 12:59
 bacc6a58-d81a-48ad-9510-383aca700da3,allotted.bid,available,5.25,6.25,high,low,8,namesilo,,,
 f0b58ca1-7b56-4511-8cb7-2dcef11e9766,controversial.bid,available,5.25,6.25,medium,low,13,namesilo,,,
 3348f3d5-ede6-499c-917e-f627bc8e4ac8,beardless.bid,available,5.25,6.25,medium,low,9,namesilo,,,09/08/2026 04:43
@@ -874,7 +871,7 @@ bfdb5e70-d933-4670-afac-063485f83871,pad.bid,resell,,,high,low,3,"Chengdu West D
 575b847d-362f-4149-9157-9ff4b6046ea5,lowbrow.bid,premium,437.5,62.5,medium,low,7,name.com,,,
 ba62690b-c277-42d6-b72d-ca486fcd840b,tuesdays.bid,available,9.98,,high,low,8,namecheap,,,
 01a17b62-a24a-4863-be6f-6713e4743b17,addible.bid,available,5.25,6.25,medium,low,7,namesilo,,,
-a32e44e7-e344-4cd1-85c3-c034d4153ce5,pretend.bid,premium,437.5,,high,low,7,name.com,,,
+a32e44e7-e344-4cd1-85c3-c034d4153ce5,pretend.bid,premium,448,53.92,high,low,7,namesilo,,,25/09/2026 16:18
 beb9a582-90d4-490b-a7a6-da17054416d0,beside.bid,premium,437.5,,high,low,6,name.com,,,
 fb2eb034-79ac-45d0-a3fa-a0378f09d0a7,yum.bid,premium,625,,high,low,3,name.com,,,
 32eacc0c-4730-4570-95e7-7d2c5125f4e7,pillowcase.bid,available,9.98,,high,low,11,namecheap,,,
@@ -889,7 +886,7 @@ fad31cd7-5031-4254-ae8a-c9a2c5f9b1f7,supplies.bid,available,5.25,6.25,medium,low
 46148b92-8785-4fa2-9b33-ee1919d2fc5a,overdue.bid,available,5.25,6.25,high,low,7,namesilo,,,
 886fd3e1-5b79-426a-b70d-82f933b37f32,flooded.bid,premium,437.5,62.5,high,low,7,name.com,,,08/08/2026 00:23
 34c3b207-4268-4ff9-bf9f-85119a99d1ad,seals.bid,premium,437.5,,high,low,5,name.com,,,
-9e3e243c-6b95-4ae3-be76-10f4f456448b,felt.bid,premium,437.5,,high,low,4,name.com,,,
+9e3e243c-6b95-4ae3-be76-10f4f456448b,felt.bid,premium,455,65,high,low,4,namecheap,,,25/09/2026 18:07
 d6b3d00f-f7a8-4f33-9fb7-cdbc14dda224,journeyman.bid,premium,437.5,,high,low,10,name.com,,,
 c0e05f37-d7dd-42b7-9468-d196552642a0,registered.bid,premium,437.5,,high,low,10,name.com,,,
 885cf3fa-431f-4def-aa3a-6012521e6b74,whiskered.bid,available,5.25,6.25,medium,low,9,namesilo,,,08/08/2026 16:15
@@ -901,7 +898,7 @@ c0e05f37-d7dd-42b7-9468-d196552642a0,registered.bid,premium,437.5,,high,low,10,n
 9365b295-d6bc-44b0-8eb1-c41cd56d6180,exception.bid,premium,437.5,,high,low,9,name.com,,,
 1aabe03c-4ac0-400d-9b0d-62798755ef8c,bears.bid,premium,116,29.5,high,low,5,namesilo,,,
 ebcad1af-f360-49f3-b0b2-be97ceceba28,atp.bid,premium,625,,high,low,3,name.com,,,
-fd655234-6ffc-49d4-b8d4-447b0d06c103,berserk.bid,premium,437.5,62.5,high,low,7,name.com,,,
+fd655234-6ffc-49d4-b8d4-447b0d06c103,berserk.bid,premium,437.5,62.5,medium,low,7,name.com,,,
 176ac161-3b74-47c9-b4ec-a52d9ba197e1,showcase.bid,resell,,,high,low,8,"GoDaddy.com, LLC",24/06/2014 22:05,23/06/2026 23:59,
 24e4b99b-e502-46a5-b39c-98c976e336ce,stuck.bid,premium,437.5,,medium,low,5,name.com,,,
 5a1eec14-94aa-4bc9-8237-2805c30d8e8f,eyesight.bid,premium,437.5,,high,low,9,name.com,,,
@@ -919,9 +916,10 @@ f03730fb-530f-4857-8c9e-1ff59111c461,mirror.bid,available,,,high,low,6,,,,
 ddb335b9-7b94-413d-86ba-b993ff02e118,bjp.bid,premium,625,,high,low,3,name.com,,,
 793b1752-da05-4bd5-80cc-45bebc1655b9,seated.bid,available,5.25,6.25,high,low,6,namesilo,,,
 8db09147-5e68-424d-a117-654b439376de,monstrous.bid,premium,437.5,62.5,medium,low,9,name.com,,,07/08/2026 14:47
-4fb01290-dfb1-45ec-87ca-cb6673374aba,combatant.bid,premium,437.5,62.5,high,low,9,name.com,,,09/08/2026 13:29
-ef264b18-5e72-41e2-b343-03b202e545c3,occurrence.bid,available,5.25,6.25,high,low,10,namesilo,,,
+4fb01290-dfb1-45ec-87ca-cb6673374aba,combatant.bid,premium,437.5,62.5,medium,low,9,name.com,,,09/08/2026 13:29
+ef264b18-5e72-41e2-b343-03b202e545c3,occurrence.bid,available,5.98,9.98,high,low,10,namecheap,,,25/09/2026 23:56
 9b36a410-efa4-451b-b243-38bf1021636a,commit.bid,premium,437.5,,high,low,6,name.com,,,
+1c3c1c26-fa6b-4bf9-a716-3a774fd975b9,funds.bid,available,5.25,6.25,high,low,5,namesilo,,,25/09/2026 10:24
 5da2d180-1c76-40da-8bb5-79e97d034374,scarlett.bid,premium,437.5,,high,low,8,name.com,,,
 e01c33f4-64af-4758-984d-e929358fa119,canal.bid,premium,437.5,,high,low,5,name.com,,,
 a3b5f501-b652-4628-8499-14775ae2dce3,hangout.bid,premium,437.5,,high,low,8,name.com,,,
@@ -944,7 +942,7 @@ ad695e9a-fdc0-43bd-98bf-4e2fd4ce099a,wheezing.bid,available,5.25,6.25,medium,low
 c7f05e6a-2b4f-466c-8fc1-039e9d31e0cf,redo.bid,premium,437.5,,high,low,4,name.com,,,
 cd1225a1-d51c-46b7-8e48-758a96f24153,whereabouts.bid,premium,437.5,,high,low,11,name.com,,,
 7b1034d8-946d-4b0f-ba00-9c6d4076c56b,avuncular.bid,available,5.25,6.25,medium,low,9,namesilo,,,07/08/2026 23:51
-4df01d67-6ade-4024-be3d-4ed085ecddcd,kooky.bid,premium,437.5,62.5,high,low,5,name.com,,,06/08/2026 21:04
+4df01d67-6ade-4024-be3d-4ed085ecddcd,kooky.bid,premium,437.5,62.5,medium,low,5,name.com,,,06/08/2026 21:04
 c8512c1d-7bed-4f75-ad82-9c467acdd1af,frog.bid,premium,125,37.99,high,low,4,name.com,,,05/08/2026 21:03
 191102ff-4d74-44e9-87de-222692b2185b,gee.bid,premium,625,,high,low,3,name.com,,,
 b703b1ef-d7b9-4be5-9bbc-2d036a860692,heaven.bid,premium,437.5,,high,low,6,name.com,,,
@@ -961,15 +959,13 @@ b0814d8e-8508-43ec-a41a-b81d49158584,techno.bid,available,9.98,,high,low,6,namec
 2590c68d-0487-404b-8ef3-e5c0edc37e02,deficit.bid,available,9.98,,high,low,7,namecheap,,,
 b2c39bd0-5691-42bf-92e7-ff23c688c1d2,unfounded.bid,available,5.25,6.25,medium,low,9,namesilo,,,08/08/2026 21:57
 752aa058-6196-433f-ae36-868b50d8e997,spherical.bid,premium,437.5,62.5,high,low,9,name.com,,,08/08/2026 10:21
-e0238aac-34f4-4dea-a690-44cf98e1226d,sugar.bid,premium,1250,,high,low,5,name.com,,,
-ca981715-e7fc-42ac-8d49-4ceec08bb06f,incorrect.bid,available,5.25,6.25,high,low,9,namesilo,,,
 e7e50097-ae76-47d6-96f9-0809a8b52a9f,buns.bid,available,5.25,6.25,medium,low,4,namesilo,,,09/08/2026 10:54
-98e8b586-c345-4a17-b009-60ca73c54954,many.bid,premium,1107,116,high,low,4,namesilo,,,
+98e8b586-c345-4a17-b009-60ca73c54954,many.bid,premium,1250,125,high,low,4,name.com,,,25/09/2026 16:43
 16e1c02b-b343-43a0-aa9d-21f0797c67a6,drift.bid,premium,437.5,,high,low,5,name.com,,,
 fedb37e2-42f0-41c3-99b2-f751902c0f54,tahoe.bid,premium,437.5,,high,low,5,name.com,,,
 cf81445d-8b85-48ec-8463-79e6c96f3063,drinking.bid,available,9.98,,high,low,8,namecheap,,,
 5a4570f3-8956-4c7b-b4d8-16a14fce2a2d,dislike.bid,available,5.25,6.25,high,low,7,namesilo,,,
-f75db4c9-adaf-4b32-9610-b9681397666f,pesky.bid,premium,437.5,62.5,high,low,5,name.com,,,
+f75db4c9-adaf-4b32-9610-b9681397666f,pesky.bid,premium,437.5,62.5,medium,low,5,name.com,,,
 526a4f05-3358-49d7-97e9-0ab64ab4981e,involve.bid,premium,437.5,,high,low,7,name.com,,,
 46097205-550b-4ccf-b0de-5cb195ba9961,quint.bid,premium,437.5,62.5,medium,low,5,name.com,,,
 34c797bd-b299-476b-b205-9d8eee354058,abreast.bid,available,5.25,6.25,high,low,7,namesilo,,,
@@ -982,13 +978,14 @@ e10439de-77c9-4d84-8171-92b19d93ae16,idiom.bid,premium,437.5,,high,low,5,name.co
 8aab6a18-37b4-4ad1-8248-d236b6bf5967,aggravated.bid,available,5.25,6.25,high,low,10,namesilo,,,
 848a0734-c6ee-4909-a213-32b8fbe9b663,pyrenees.bid,premium,437.5,,high,low,8,name.com,,,
 74b693d1-c1fc-4e47-b297-04c5b3650795,carpet.bid,premium,625,,high,low,6,name.com,,,
-5fa31c29-2ebe-42dd-a623-dfd4243c7f62,meaningful.bid,available,5.25,6.25,high,low,10,namesilo,,,
+5fa31c29-2ebe-42dd-a623-dfd4243c7f62,meaningful.bid,available,34.99,37.99,high,low,10,name.com,,,25/09/2026 18:37
 843533c5-0a12-4021-9969-949ad5f47c74,basis.bid,premium,116,29.5,high,low,5,namesilo,,,
 fccf4ad8-d2dd-4511-b6a1-c707443f5c6f,accented.bid,available,5.25,6.25,medium,low,8,namesilo,,,
 4d698e48-4c30-4e4d-98e0-decf72d35396,montreal.bid,available,9.98,,high,low,8,namecheap,,,
 048d09cd-15dd-4752-bd21-9a1f7de21d7e,rising.bid,premium,437.5,62.5,high,low,6,name.com,,,
 1730c527-5f0c-4b1a-b5ab-8daa261f0bb1,owing.bid,available,5.25,6.25,medium,low,5,namesilo,,,
 d9559f1d-23d4-42b5-9ec6-65e6e2e11e3b,hopefully.bid,available,9.98,,high,low,9,namecheap,,,
+c5c18852-4f5d-43b5-8c37-9b5cab397873,dessert.bid,premium,448,53.92,high,low,7,namesilo,,,25/09/2026 10:39
 c71aba74-8a1f-4c53-9d6e-1817862e0398,crimes.bid,premium,1250,,high,low,6,name.com,,,
 4ac84a81-0a6f-43c2-b3ce-3fa396c958c9,artful.bid,premium,1107,116,high,low,6,namesilo,,,06/08/2026 22:44
 2092c7ff-cbff-49c5-bdb3-739966543a57,several.bid,premium,437.5,,high,low,7,name.com,,,
@@ -999,3 +996,6 @@ b8bc5f2f-1729-4eaa-90f6-149e53c861b2,penis.bid,available,5.25,6.25,high,low,5,na
 8140694d-23b4-4319-803f-bb7f130a8b82,advertent.bid,available,5.25,6.25,medium,low,9,namesilo,,,
 f9e0e280-2a5c-4dda-97a9-c2467663a587,ellen.bid,premium,437.5,,high,low,5,name.com,,,
 d04bf008-121e-47a4-bb5f-10bfe99fd51d,difference.bid,premium,3125,,high,low,10,name.com,,,
+266afbca-98c6-4385-96bb-d6f9adf27e93,contrast.bid,premium,437.5,,high,low,8,name.com,,,
+ad6adee0-61f7-471f-ba44-9bbf853fc292,upper.bid,premium,6250,,high,low,5,name.com,,,
+a07d4b28-798a-4a7e-b317-fadcd62f822e,panoptic.bid,premium,437.5,62.5,medium,low,8,name.com,,,
